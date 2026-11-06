@@ -1,8 +1,25 @@
-# Papiro Revela — piloto 01
+# Papiro Revela — vídeos
+
+## Curta 02 — A criação do mundo, dia após dia | elevenlabs.io
+
+**[Baixar Full HD — 1080 × 1920](./papiro-revela-02-criacao-1080p.mp4?raw=true)**
+
+Cerca de **81 segundos**, nove cenas de colagem animada e narração masculina Brian / Eleven Turbo v2.5. O roteiro foi revisado e aprovado pelo usuário, incluindo o encerramento: **“Segue o Papiro Revela. Curiosidades bíblicas, direto do texto.”**
+
+Fonte: **Gênesis 1:1–2:3**, consultado na base pública [thiagobodruk/bible](https://github.com/thiagobodruk/bible/blob/master/json/pt_acf.json). O vídeo apresenta a sequência do relato bíblico. As ilustrações são artísticas; não é uma explicação científica sobre a origem ou a idade do universo.
+
+- [Capa](./criacao-capa.png)
+- [Roteiro aprovado](./CRIACAO-ROTEIRO.md)
+- [Descrição, fontes e créditos](./CRIACAO-DESCRICAO.txt)
+
+Voz sintética: **[ElevenLabs — elevenlabs.io](https://elevenlabs.io)**, gerada com créditos gratuitos. Confira a licença do plano antes de uso comercial. Ilustrações, animação, trilha e efeitos originais do projeto. Tipografia DejaVu, [licença](./FONT_LICENSE.txt).
+
+## Curta 01 — Antes da pomba, veio um corvo
+
 
 **Antes da pomba, veio um corvo** — cerca de 44 segundos, vertical, português brasileiro.
 
-## Nova versão — voz ElevenLabs | elevenlabs.io
+### Versão com voz ElevenLabs | elevenlabs.io
 
 **[Baixar Full HD com áudio ElevenLabs — 1080 × 1920](./papiro-revela-01-elevenlabs-1080p.mp4?raw=true)**
 
@@ -12,7 +29,7 @@ Crédito desta narração: **[ElevenLabs — elevenlabs.io](https://elevenlabs.i
 
 [Descrição e créditos desta versão](./DESCRICAO-ELEVENLABS.txt).
 
-## Versões anteriores — voz Piper
+### Versões anteriores — voz Piper
 
 - [Baixar Full HD — 1080 × 1920](./papiro-revela-01-1080p.mp4?raw=true)
 - [Baixar versão leve — 720 × 1280](./papiro-revela-01-720p.mp4?raw=true)
@@ -20,7 +37,7 @@ Crédito desta narração: **[ElevenLabs — elevenlabs.io](https://elevenlabs.i
 Se o GitHub abrir a página do arquivo, use **Download raw file** para baixar.
 Nome do canal: Papiro Revela. @ sugerido: @papirorevela; disponibilidade não verificada.
 
-## Fonte e créditos
+### Fonte e créditos do curta 01
 
 Roteiro original em paráfrase de Gênesis 8:6–12, consultado na [base bíblica pública thiagobodruk/bible](https://github.com/thiagobodruk/bible/blob/master/json/pt_acf.json). O vídeo apresenta o relato bíblico, sem afirmar comprovação arqueológica.
 

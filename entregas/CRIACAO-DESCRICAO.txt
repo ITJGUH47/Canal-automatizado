@@ -1,0 +1,13 @@
+Papiro Revela — A criação do mundo, dia após dia | elevenlabs.io
+
+Você sabia que, no relato de Gênesis, a luz aparece antes do Sol? Acompanhe os seis dias da criação e o descanso do sétimo.
+
+Segue o Papiro Revela. Curiosidades bíblicas, direto do texto.
+@papirorevela é uma sugestão de identificador; disponibilidade não verificada.
+
+FONTE: Gênesis 1:1–2:3. Base textual consultada: https://github.com/thiagobodruk/bible/blob/master/json/pt_acf.json . Roteiro em paráfrase; as imagens são ilustrações artísticas do relato. O vídeo não discute a idade do universo ou diferentes interpretações sobre a duração dos dias.
+
+VOZ: Brian / ElevenLabs, modelo Eleven Turbo v2.5. Crédito: https://elevenlabs.io . A narração foi gerada com créditos do plano gratuito; confira as condições da licença antes de uso comercial.
+VISUAL E SOM: ilustrações vetoriais, animação, trilha e efeitos originais do projeto. Estilo de colagem editorial inspirado na referência fornecida pelo usuário, sem reutilizar suas imagens ou logotipos. Tipografia DejaVu, licença DejaVu/Bitstream, já incluída nesta pasta.
+
+#Genesis #CriacaoDoMundo #CuriosidadesBiblicas #Biblia #PapiroRevela
