@@ -2,6 +2,18 @@
 
 **[Banner do YouTube e fotos de perfil do canal](./identidade/README.md)**
 
+## Curta 03 — O fruto proibido era uma maçã? | elevenlabs.io
+
+**[Baixar Full HD — 1080 × 1920](./papiro-revela-03-fruto-1080p.mp4?raw=true)**
+
+**67 segundos**, oito cenas de colagem animada, narração masculina Brian / Eleven Turbo v2.5 e roteiro aprovado pelo usuário. Fonte: **Gênesis 2:9,16–17 e 3:1–7**. A passagem não identifica a espécie do fruto; as folhas de figueira não demonstram que ele fosse um figo.
+
+- [Título e descrição prontos para publicar](./FRUTO-TITULO-E-DESCRICAO.txt)
+- [Roteiro aprovado](./FRUTO-ROTEIRO.md)
+- [Capa](./fruto-capa.png)
+
+Voz: **[ElevenLabs — elevenlabs.io](https://elevenlabs.io)**, gerada com créditos gratuitos. Confira as condições de licença antes de uso comercial. Visual e trilha originais. Tipografia DejaVu, [licença](./FONT_LICENSE.txt). Os episódios anteriores permanecem disponíveis abaixo.
+
 ## Curta 02 — A criação do mundo, dia após dia | elevenlabs.io
 
 **[Baixar Full HD — 1080 × 1920](./papiro-revela-02-criacao-1080p.mp4?raw=true)**
