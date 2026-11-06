@@ -2,6 +2,18 @@
 
 **Antes da pomba, veio um corvo** — cerca de 44 segundos, vertical, português brasileiro.
 
+## Nova versão — voz ElevenLabs | elevenlabs.io
+
+**[Baixar Full HD com áudio ElevenLabs — 1080 × 1920](./papiro-revela-01-elevenlabs-1080p.mp4?raw=true)**
+
+Cerca de 37 segundos, com narração masculina Brian / Eleven Turbo v2.5, cenas ajustadas à nova duração e volume normalizado. Áudio AAC estéreo; vídeo H.264, yuv420p, BT.709.
+
+Crédito desta narração: **[ElevenLabs — elevenlabs.io](https://elevenlabs.io)**. Consulte as condições do plano utilizado antes de uso comercial; a versão foi gerada com créditos gratuitos. O crédito Piper abaixo se aplica apenas às versões anteriores. A fonte bíblica, os créditos das ilustrações e a licença das fontes continuam os mesmos.
+
+[Descrição e créditos desta versão](./DESCRICAO-ELEVENLABS.txt).
+
+## Versões anteriores — voz Piper
+
 - [Baixar Full HD — 1080 × 1920](./papiro-revela-01-1080p.mp4?raw=true)
 - [Baixar versão leve — 720 × 1280](./papiro-revela-01-720p.mp4?raw=true)
 
