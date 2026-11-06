@@ -1,5 +1,7 @@
 # Papiro Revela — vídeos
 
+**[Banner do YouTube e fotos de perfil do canal](./identidade/README.md)**
+
 ## Curta 02 — A criação do mundo, dia após dia | elevenlabs.io
 
 **[Baixar Full HD — 1080 × 1920](./papiro-revela-02-criacao-1080p.mp4?raw=true)**
