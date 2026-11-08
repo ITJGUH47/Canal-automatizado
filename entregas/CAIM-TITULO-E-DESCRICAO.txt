@@ -1,0 +1,19 @@
+TÍTULO
+Caim e Abel: o detalhe que Gênesis não conta | elevenlabs.io
+
+DESCRIÇÃO
+Você já viu Caim e Abel representados com uma pedra? Há um detalhe importante: Gênesis não identifica a arma usada.
+
+Neste vídeo, acompanhamos as ocupações dos dois irmãos, suas ofertas, a ira de Caim e a advertência que veio antes do crime. Depois, uma pergunta coloca a responsabilidade em destaque: “Onde está Abel, teu irmão?”
+
+O relato informa que Caim matou Abel, mas não descreve uma pedra, uma faca ou qualquer outra arma. Separar o texto das representações ajuda a observar os detalhes da passagem.
+
+🔎 Qual detalhe dessa história mais chamou sua atenção? Conte nos comentários!
+
+Segue o Papiro Revela. Curiosidades bíblicas, direto do texto.
+
+📖 Fonte: Gênesis 4:2–10. Roteiro em paráfrase; falas adaptadas em linguagem atual. Base textual consultada: https://github.com/thiagobodruk/bible/blob/master/json/pt_acf.json
+🎙️ Narração sintética: Brian / ElevenLabs — https://elevenlabs.io
+🎨 Ilustrações, animação, trilha e efeitos originais do projeto. Tipografia DejaVu, licença DejaVu/Bitstream.
+
+#CaimEAbel #Genesis #CuriosidadesBiblicas #Biblia #PapiroRevela

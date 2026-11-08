@@ -2,6 +2,20 @@
 
 **[Banner do YouTube e fotos de perfil do canal](./identidade/README.md)**
 
+## Curta 04 — Caim e Abel: o detalhe que Gênesis não conta | elevenlabs.io
+
+**[Baixar vídeo final Full HD — 1080 × 1920](./papiro-revela-04-caim-1080p.mp4?raw=true)**
+
+**76 segundos**, oito cenas de colagem animada, voz masculina Brian / Eleven Turbo v2.5, trilha original e volume normalizado. A narração real foi gerada e verificada. Fonte: **Gênesis 4:2–10**; falas adaptadas em linguagem atual. O texto não identifica a arma usada, e as ilustrações não encenam violência explícita.
+
+- [Título e descrição para publicação](./CAIM-TITULO-E-DESCRICAO.txt)
+- [Roteiro aprovado](./CAIM-ROTEIRO.md)
+- [Capa vertical](./caim-capa.png)
+
+Crédito de voz: **[ElevenLabs — elevenlabs.io](https://elevenlabs.io)**. Gerado com créditos gratuitos; confira a licença do plano antes de uso comercial. Ilustrações, animação, música e efeitos originais. Fontes DejaVu, [licença](./FONT_LICENSE.txt).
+
+A prévia silenciosa histórica permanece em `previas/`; o arquivo acima é a versão final com voz.
+
 ## Curta 03 — O fruto proibido era uma maçã? | elevenlabs.io
 
 **[Baixar Full HD — 1080 × 1920](./papiro-revela-03-fruto-1080p.mp4?raw=true)**
@@ -59,6 +73,6 @@ Voz sintética masculina: Piper, modelo edresson (low), disponibilizado na [dist
 
 Ilustrações, animação, textura de papel, trilha e efeitos sonoros originais produzidos para este projeto. Tipografia DejaVu Sans Condensed Bold e DejaVu Serif Italic, sob licença DejaVu/Bitstream; [licença](./FONT_LICENSE.txt).
 
-## Em produção
+## Prévias históricas
 
-**[Prévia silenciosa de Caim e Abel — narração pendente](./previas/README.md)**
+**[Prévia silenciosa histórica de Caim e Abel](./previas/README.md)** — a versão final com voz está disponível acima.
