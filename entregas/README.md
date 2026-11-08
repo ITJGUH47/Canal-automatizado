@@ -2,6 +2,18 @@
 
 **[Banner do YouTube e fotos de perfil do canal](./identidade/README.md)**
 
+## Curta 05 — Enoque: o nome que quebra o padrão em Gênesis | elevenlabs.io
+
+**[Baixar Full HD — 1080 × 1920](./papiro-revela-05-enoque-1080p.mp4?raw=true)**
+
+**70 segundos**, sete cenas de colagem editorial, voz masculina Brian / Eleven Turbo v2.5 e roteiro aprovado pelo usuário. Fonte: **Gênesis 5, especialmente 21–24**. O vídeo destaca a mudança do encerramento sobre Enoque, sem inventar uma cena de sua partida. As formulações podem variar conforme a tradução.
+
+- [Título e descrição para publicar](./ENOQUE-TITULO-E-DESCRICAO.txt)
+- [Roteiro aprovado](./ENOQUE-ROTEIRO.md)
+- [Capa vertical](./enoque-capa.png)
+
+Voz sintética: **[ElevenLabs — elevenlabs.io](https://elevenlabs.io)**, gerada com créditos gratuitos. Confira as condições do plano antes de uso comercial. Ilustrações, animação, trilha e efeitos originais. Tipografia DejaVu, [licença](./FONT_LICENSE.txt). Os episódios anteriores foram preservados.
+
 ## Curta 04 — Caim e Abel: o detalhe que Gênesis não conta | elevenlabs.io
 
 **[Baixar vídeo final Full HD — 1080 × 1920](./papiro-revela-04-caim-1080p.mp4?raw=true)**
