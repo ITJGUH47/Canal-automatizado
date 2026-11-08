@@ -58,3 +58,7 @@ Roteiro original em paráfrase de Gênesis 8:6–12, consultado na [base bíblic
 Voz sintética masculina: Piper, modelo edresson (low), disponibilizado na [distribuição oficial v0.0.2](https://github.com/rhasspy/piper/releases/tag/v0.0.2). Corpus de [Edresson](https://github.com/Edresson/TTS-Portuguese-Corpus), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). A narração foi sintetizada e mixada para este roteiro.
 
 Ilustrações, animação, textura de papel, trilha e efeitos sonoros originais produzidos para este projeto. Tipografia DejaVu Sans Condensed Bold e DejaVu Serif Italic, sob licença DejaVu/Bitstream; [licença](./FONT_LICENSE.txt).
+
+## Em produção
+
+**[Prévia silenciosa de Caim e Abel — narração pendente](./previas/README.md)**
