@@ -88,3 +88,7 @@ Ilustrações, animação, textura de papel, trilha e efeitos sonoros originais 
 ## Prévias históricas
 
 **[Prévia silenciosa histórica de Caim e Abel](./previas/README.md)** — a versão final com voz está disponível acima.
+
+## Em preparação
+
+**[Prévia visual da arca — narração ainda pendente](./previas/README.md)**

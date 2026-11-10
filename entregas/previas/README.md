@@ -1,5 +1,18 @@
 # Prévias de produção — não são vídeos finais
 
+## A arca de Noé tinha três andares? — prévia visual
+
+**[Ver as oito cenas preparadas](./arca-cenas-previa.jpg)**
+
+- [Capa provisória](./arca-capa-previa.png)
+- [Roteiro aprovado, com a chamada às três redes](./ARCA-ROTEIRO-APROVADO.md)
+
+Esta é uma prancha de imagens, **não um vídeo final**. A narração e o novo encerramento ainda não foram gerados. Nenhum crédito de síntese foi usado neste episódio. Os avisos “PRÉVIA · SEM NARRAÇÃO” e “VOZ: PENDENTE” aparecem nas imagens.
+
+Fonte: Gênesis 6:14–16, consultado na [base pública thiagobodruk/bible](https://github.com/thiagobodruk/bible/blob/master/json/pt_acf.json). As medidas são mantidas em côvados, sem conversão fixa para metros. A arca é uma ilustração esquemática fora de escala, não uma planta completa de construção. Visual original; tipografia DejaVu, [licença](../FONT_LICENSE.txt).
+
+
+
 ## Caim e Abel: o detalhe que Gênesis não conta
 
 **Atualização: [a versão final Full HD com narração já está disponível](../papiro-revela-04-caim-1080p.mp4?raw=true).** O arquivo abaixo foi preservado apenas como prévia histórica.
