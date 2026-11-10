@@ -1,6 +1,6 @@
 # Prévias de produção — não são vídeos finais
 
-**[Novos desenhos da arca — perspectiva, corte e medidas](./arca-v2/README.md)**
+**[Arca: nova prévia em vídeo sem narração e estudos de ilustração](./arca-v2/README.md)**
 
 ## A arca de Noé tinha três andares? — prévia visual
 
