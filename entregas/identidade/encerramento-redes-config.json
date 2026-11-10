@@ -1,0 +1,15 @@
+{
+  "text": "Segue o Papiro Revela no Instagram, TikTok e YouTube. Curiosidades bíblicas, direto do texto.",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "model_id": "eleven_turbo_v2_5",
+  "settings": {
+    "stability": 0.65,
+    "similarity_boost": 0.75,
+    "style": 0.1,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  },
+  "cache_filename": "6574d64ce4a251cadc7bbc48f7a803d7f279a30a091487659f050d836facb668.mp3",
+  "sha256": "797b4a8f23c662a04c09efca3945486217375ee7e2e334fb5aee720073519699",
+  "reusable_asset": "public/assets/cta-redes-brian-turbo-v2-5.mp3"
+}

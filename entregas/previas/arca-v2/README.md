@@ -1,4 +1,6 @@
-# Arca — novos estudos visuais para aprovação
+# Arca — estudos e prévia visual
+
+**Atualização: [a versão final Full HD com narração está disponível](../../papiro-revela-06-arca-1080p.mp4?raw=true).** A prévia sem áudio abaixo foi preservada como etapa de revisão.
 
 Estes desenhos foram criados por código em SVG após o usuário fornecer uma referência de embarcação alongada. A referência orienta a aparência; seus textos, conversões e detalhes construtivos não foram adotados como fonte bíblica.
 

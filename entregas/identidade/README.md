@@ -22,3 +22,7 @@ Artes geradas para o canal, na linguagem de colagem editorial: papel envelhecido
 Os originais foram criados por geração de imagem; as versões finais foram exportadas nas dimensões indicadas. Nome do canal: Papiro Revela. Frase: “Curiosidades bíblicas, direto do texto.”
 
 Se o GitHub abrir a página da imagem, use **Download raw file**. Nenhuma imagem foi aplicada ou publicada automaticamente nas contas das redes sociais.
+
+## Encerramento falado reutilizável
+
+[Áudio com Instagram, TikTok e YouTube e instruções de reutilização](./ENCERRAMENTO-REDES.md).

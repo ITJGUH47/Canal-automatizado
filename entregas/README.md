@@ -2,6 +2,24 @@
 
 **[Banner do YouTube e fotos de perfil do canal](./identidade/README.md)**
 
+## Curta 06 — A arca de Noé tinha três andares? | elevenlabs.io
+
+**[Baixar versão final Full HD com narração](./papiro-revela-06-arca-1080p.mp4?raw=true)**
+
+**71 segundos**, com as novas ilustrações da embarcação aprovadas pelo usuário, panorâmicas, cortes dos três níveis e medidas. Narração Brian / Eleven Turbo v2.5, trilha e efeitos originais, áudio estéreo com volume normalizado.
+
+- [Título e descrição para publicação](./ARCA-TITULO-E-DESCRICAO.txt)
+- [Roteiro aprovado](./ARCA-ROTEIRO.md)
+- [Capa vertical](./arca-capa.png)
+- [Áudio reutilizável do encerramento para as três redes](./identidade/encerramento-redes-brian.mp3?raw=true)
+- [Instruções e metadados do encerramento](./identidade/ENCERRAMENTO-REDES.md)
+
+O encerramento foi mantido exatamente como solicitado: **“Segue o Papiro Revela no Instagram, TikTok e YouTube. Curiosidades bíblicas, direto do texto.”** Está salvo separadamente para reutilização com a mesma voz e parâmetros, sem gerar a frase novamente.
+
+**Fonte: Gênesis 6:14–16.** As imagens são interpretações artísticas, não plantas completas ou reconstruções arqueológicas. Medidas em côvados, sem conversão fixa para metros. Detalhes do casco e cobertura não são descritos integralmente no texto.
+
+Voz sintética: **[ElevenLabs — elevenlabs.io](https://elevenlabs.io)**, com créditos gratuitos; conferir licença do plano antes de uso comercial. Tipografia DejaVu, [licença](./FONT_LICENSE.txt). A prévia silenciosa e os estudos de imagem permanecem disponíveis como etapas de revisão.
+
 ## Curta 05 — Enoque: o nome que quebra o padrão em Gênesis | elevenlabs.io
 
 **[Baixar Full HD — 1080 × 1920](./papiro-revela-05-enoque-1080p.mp4?raw=true)**
@@ -89,6 +107,6 @@ Ilustrações, animação, textura de papel, trilha e efeitos sonoros originais 
 
 **[Prévia silenciosa histórica de Caim e Abel](./previas/README.md)** — a versão final com voz está disponível acima.
 
-## Em preparação
+## Estudos e prévias históricas
 
-**[Prévia visual da arca — narração ainda pendente](./previas/README.md)**
+**[Prévia visual histórica da arca](./previas/README.md)** — a versão final com voz está disponível acima.
