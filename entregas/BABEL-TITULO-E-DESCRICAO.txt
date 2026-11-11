@@ -1,0 +1,21 @@
+TÍTULO
+Babel: por que construíram aquela torre? | elevenlabs.io
+
+DESCRIÇÃO
+Uma torre com o topo nos céus… mas o que os construtores realmente queriam? 📜
+
+Em Gênesis 11:1–9, o povo decide construir uma cidade e uma torre, tornar seu nome famoso e evitar que fosse espalhado pela terra. O relato menciona tijolos, betume e a confusão das línguas. No final, o povo acaba disperso — justamente o que queria evitar.
+
+E um detalhe que costuma passar despercebido: Gênesis não diz que a torre foi destruída.
+
+Você já tinha percebido isso no relato? Conte nos comentários.
+
+Segue o Papiro Revela no Instagram, TikTok e YouTube. Curiosidades bíblicas, direto do texto.
+
+📖 Referência: Gênesis 11:1–9. Roteiro adaptado em linguagem atual; as palavras podem variar conforme a tradução.
+A aparência, a altura e os patamares da torre nas imagens são interpretação artística; o texto não fornece essas características.
+
+🎙️ Voz sintética Brian, gerada com ElevenLabs — https://elevenlabs.io
+🎨 Ilustrações desenhadas por script Python/Pillow, animação por Remotion, trilha e efeitos originais do projeto Papiro Revela. Tipografia DejaVu, licença DejaVu/Bitstream.
+
+#TorreDeBabel #Genesis #CuriosidadesBiblicas #Biblia #PapiroRevela

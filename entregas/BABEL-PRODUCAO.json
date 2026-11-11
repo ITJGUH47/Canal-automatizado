@@ -1,0 +1,81 @@
+{
+  "episode": 7,
+  "title": "Babel: por que construíram aquela torre?",
+  "production": {
+    "model": "eleven_turbo_v2_5",
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting",
+    "characters": 988,
+    "cta_reused": true,
+    "cta_characters_saved": 93,
+    "predicted_credits_upper": 449,
+    "credits_observed": 447,
+    "remaining_reported": 5373,
+    "tier": "free",
+    "frames": 2128,
+    "duration": 70.93333333333334,
+    "monthly_budget_brl": 50,
+    "notes": "Roteiro aprovado pelo usuário. Nenhuma mudança de plano, recarga ou cobrança excedente foi autorizada ou realizada. Cache por texto/voz/configuração. O delta de uso é o observado no contador da conta.",
+    "account_counter_note": "Consulta após geração; o contador do provedor pode ter atualização posterior."
+  },
+  "verification": {
+    "duration": 70.933333,
+    "frames": 2128,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "size_bytes": 11805501,
+    "scenes_extracted": 8,
+    "loudness": {
+      "input_i": "-16.20",
+      "input_tp": "-1.45",
+      "input_lra": "3.00",
+      "input_thresh": "-27.09",
+      "output_i": "-16.18",
+      "output_tp": "-1.50",
+      "output_lra": "2.40",
+      "output_thresh": "-26.99",
+      "normalization_type": "dynamic",
+      "target_offset": "0.18"
+    },
+    "source": "Gênesis 11:1–9",
+    "cta_verified": true
+  },
+  "approved_image_manifest": "previas/babel/cenas.json",
+  "image_sources": [
+    {
+      "image": "01-por-que-babel.png",
+      "sha256": "9e255ec367d52aeec16318d428da4c3d761ff29584dbffed03e16b0ceefbae0a"
+    },
+    {
+      "image": "02-sinar.png",
+      "sha256": "aab945673bc39bb5731624e19e5c98142021d72b83f63b9a648b7a557e078372"
+    },
+    {
+      "image": "03-tijolos.png",
+      "sha256": "ef2c608fd99d9b66b112c6cc36ca7f5cab6376e0ba9dfed1b3cbc3f2252c4fff"
+    },
+    {
+      "image": "04-proposito.png",
+      "sha256": "9107872d94e4f002b66b373b919e080dc60161237527bd6996a119cb57a9958c"
+    },
+    {
+      "image": "05-linguas.png",
+      "sha256": "1d1f941fa34458d0594963430339e8a2c244931a83140538e72f788a4d79804a"
+    },
+    {
+      "image": "06-dispersao.png",
+      "sha256": "a1409efa17d1be83a5c13d044dee2d59e19b560e391ca468dc6218360e51d0ed"
+    },
+    {
+      "image": "07-detalhe.png",
+      "sha256": "5bd6037da05a57555e9737248c6d5dd960dfd1d53d53dfcb6d9558752706cf80"
+    },
+    {
+      "image": "08-encerramento.png",
+      "sha256": "efa436677248cda7f77aa3ca9a254da83065e14a05377b3526a0bba926b17bcc"
+    }
+  ],
+  "render": "Python + FFmpeg, movimento de página inteira e transições; sem recortes nos textos dos cartões."
+}

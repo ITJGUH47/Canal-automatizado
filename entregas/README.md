@@ -2,6 +2,22 @@
 
 **[Banner do YouTube e fotos de perfil do canal](./identidade/README.md)**
 
+## Curta 07 — Babel: por que construíram aquela torre? | elevenlabs.io
+
+**[Baixar versão final Full HD com narração](./papiro-revela-07-babel-1080p.mp4?raw=true)**
+
+**71 segundos**, oito cenas com as imagens de Babel desenhadas por script e aprovadas no chat. Movimentos suaves nas ilustrações, transições, voz Brian / Eleven Turbo v2.5, trilha e efeitos originais, áudio estéreo normalizado. O encerramento das três redes foi reutilizado, sem gerar a frase novamente.
+
+- [Título e descrição para publicação](./BABEL-TITULO-E-DESCRICAO.txt)
+- [Roteiro](./BABEL-ROTEIRO.md)
+- [Capa vertical](./babel-capa.png)
+- [Prévia das oito cenas e script das ilustrações](./previas/babel/README.md)
+- [Dados de produção e verificação](./BABEL-PRODUCAO.json)
+
+**Fonte: Gênesis 11:1–9.** O vídeo destaca os motivos apresentados pelos construtores, a confusão das línguas e a dispersão. O texto não afirma que a torre foi destruída. Formato, altura e patamares da torre são interpretação artística.
+
+Voz sintética: **[ElevenLabs — elevenlabs.io](https://elevenlabs.io)**, com créditos gratuitos; conferir licença do plano antes de uso comercial. Tipografia DejaVu, [licença](./FONT_LICENSE.txt). Os episódios anteriores e as prévias foram preservados.
+
 ## Curta 06 — A arca de Noé tinha três andares? | elevenlabs.io
 
 **[Baixar versão final Full HD com narração](./papiro-revela-06-arca-1080p.mp4?raw=true)**
