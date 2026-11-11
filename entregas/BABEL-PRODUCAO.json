@@ -10,34 +10,49 @@
     "cta_characters_saved": 93,
     "predicted_credits_upper": 449,
     "credits_observed": 447,
-    "remaining_reported": 5373,
+    "remaining_reported": 5303,
     "tier": "free",
-    "frames": 2128,
-    "duration": 70.93333333333334,
+    "frames": 2062,
+    "duration": 68.73333333333333,
     "monthly_budget_brl": 50,
     "notes": "Roteiro aprovado pelo usuário. Nenhuma mudança de plano, recarga ou cobrança excedente foi autorizada ou realizada. Cache por texto/voz/configuração. O delta de uso é o observado no contador da conta.",
-    "account_counter_note": "Consulta após geração; o contador do provedor pode ter atualização posterior."
+    "account_counter_note": "Consulta após geração; o contador do provedor pode ter atualização posterior.",
+    "correction": {
+      "reason": "Falha de fala relatada pelo usuário aos 00:40. Somente a cena languages foi sintetizada novamente em duas frases.",
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "model": "eleven_turbo_v2_5",
+      "characters": 142,
+      "additional_credits_observed": 70,
+      "remaining_reported": 5303,
+      "original_scene_duration": 12.166667,
+      "corrected_scene_duration": 9.966666666666667,
+      "duration": 68.73333333333333,
+      "cta_reused": true,
+      "other_scenes_regenerated": false,
+      "estimated_additional_credits_upper": 72,
+      "credit_update_pending": false
+    }
   },
   "verification": {
-    "duration": 70.933333,
-    "frames": 2128,
+    "duration": 68.733333,
+    "frames": 2062,
     "dimensions": [
       1080,
       1920
     ],
-    "size_bytes": 11805501,
+    "size_bytes": 11775377,
     "scenes_extracted": 8,
     "loudness": {
-      "input_i": "-16.20",
-      "input_tp": "-1.45",
-      "input_lra": "3.00",
-      "input_thresh": "-27.09",
-      "output_i": "-16.18",
+      "input_i": "-16.17",
+      "input_tp": "-1.44",
+      "input_lra": "3.30",
+      "input_thresh": "-27.03",
+      "output_i": "-16.16",
       "output_tp": "-1.50",
-      "output_lra": "2.40",
-      "output_thresh": "-26.99",
+      "output_lra": "2.50",
+      "output_thresh": "-26.95",
       "normalization_type": "dynamic",
-      "target_offset": "0.18"
+      "target_offset": "0.16"
     },
     "source": "Gênesis 11:1–9",
     "cta_verified": true
@@ -77,5 +92,7 @@
       "sha256": "efa436677248cda7f77aa3ca9a254da83065e14a05377b3526a0bba926b17bcc"
     }
   ],
-  "render": "Python + FFmpeg, movimento de página inteira e transições; sem recortes nos textos dos cartões."
+  "render": "Python + FFmpeg, movimento de página inteira e transições; sem recortes nos textos dos cartões.",
+  "corrected_video": "papiro-revela-07-babel-1080p-corrigido.mp4",
+  "audio_sample": "babel-fala-corrigida.mp3"
 }

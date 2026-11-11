@@ -4,10 +4,11 @@
 
 ## Curta 07 — Babel: por que construíram aquela torre? | elevenlabs.io
 
-**[Baixar versão final Full HD com narração](./papiro-revela-07-babel-1080p.mp4?raw=true)**
+**[Baixar versão final Full HD com narração](./papiro-revela-07-babel-1080p-corrigido.mp4?raw=true)**
 
-**71 segundos**, oito cenas com as imagens de Babel desenhadas por script e aprovadas no chat. Movimentos suaves nas ilustrações, transições, voz Brian / Eleven Turbo v2.5, trilha e efeitos originais, áudio estéreo normalizado. O encerramento das três redes foi reutilizado, sem gerar a frase novamente.
+**69 segundos**, oito cenas com as imagens de Babel desenhadas por script e aprovadas no chat. Movimentos suaves nas ilustrações, transições, voz Brian / Eleven Turbo v2.5, trilha e efeitos originais, áudio estéreo normalizado. O encerramento das três redes foi reutilizado, sem gerar a frase novamente.
 
+- [Trecho de voz refeito após a falha relatada aos 00:40](./babel-fala-corrigida.mp3?raw=true)
 - [Título e descrição para publicação](./BABEL-TITULO-E-DESCRICAO.txt)
 - [Roteiro](./BABEL-ROTEIRO.md)
 - [Capa vertical](./babel-capa.png)
