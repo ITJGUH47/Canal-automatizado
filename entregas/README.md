@@ -2,6 +2,22 @@
 
 **[Banner do YouTube e fotos de perfil do canal](./identidade/README.md)**
 
+## Curta 08 — Abrão tinha 75 anos quando tudo mudou | elevenlabs.io
+
+**[Baixar versão final Full HD com narração](./papiro-revela-08-abrao-1080p.mp4?raw=true)**
+
+**72 segundos**, oito cenas com as ilustrações de Abrão geradas por script e aprovadas no chat. Movimento suave de página inteira, transições, narração Brian / Eleven Turbo v2.5 em frases curtas, trilha e efeitos originais, áudio estéreo normalizado. Encerramento das três redes reutilizado do arquivo salvo.
+
+- [Título e descrição para publicar](./ABRAO-TITULO-E-DESCRICAO.txt)
+- [Roteiro](./ABRAO-ROTEIRO.md)
+- [Capa vertical](./abrao-capa.png)
+- [Imagens aprovadas e script](./previas/abrao/README.md)
+- [Dados de produção e verificação](./ABRAO-PRODUCAO.json)
+
+**Fonte: Gênesis 12:1–9.** A idade de 75 anos é a da saída de Harã. A mudança de nome para Abraão é mencionada como detalhe posterior, em Gênesis 17:5. O diagrama de Harã a Canaã não é uma reconstrução de rota. Aparência das pessoas, tendas e altar são interpretações artísticas.
+
+Voz sintética: **[ElevenLabs — elevenlabs.io](https://elevenlabs.io)**, com créditos gratuitos; conferir licença do plano antes de uso comercial. Tipografia DejaVu, [licença](./FONT_LICENSE.txt). Episódios anteriores preservados.
+
 ## Curta 07 — Babel: por que construíram aquela torre? | elevenlabs.io
 
 **[Baixar versão final Full HD com narração](./papiro-revela-07-babel-1080p-corrigido.mp4?raw=true)**

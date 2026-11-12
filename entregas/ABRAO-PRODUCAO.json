@@ -1,0 +1,80 @@
+{
+  "episode": 8,
+  "title": "Abrão tinha 75 anos quando tudo mudou",
+  "production": {
+    "model": "eleven_turbo_v2_5",
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting",
+    "characters": 1026,
+    "cta_reused": true,
+    "cta_characters_saved": 93,
+    "predicted_credits_upper": 465,
+    "credits_observed": 463,
+    "remaining_reported": 4840,
+    "tier": "free",
+    "frames": 2168,
+    "duration": 72.26666666666667,
+    "monthly_budget_brl": 50,
+    "notes": "Roteiro aprovado pelo usuário. Nenhuma mudança de plano, recarga ou cobrança excedente foi autorizada ou realizada. Cache por texto/voz/configuração. O delta de uso é o observado no contador da conta.",
+    "credit_counter_pending": false
+  },
+  "verification": {
+    "duration": 72.266667,
+    "frames": 2168,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "size_bytes": 11004221,
+    "scenes_extracted": 8,
+    "loudness": {
+      "input_i": "-16.17",
+      "input_tp": "-1.82",
+      "input_lra": "2.30",
+      "input_thresh": "-27.00",
+      "output_i": "-16.02",
+      "output_tp": "-1.82",
+      "output_lra": "2.10",
+      "output_thresh": "-26.80",
+      "normalization_type": "dynamic",
+      "target_offset": "0.02"
+    },
+    "source": "Gênesis 12:1–9",
+    "cta_verified": true
+  },
+  "render": "Python + FFmpeg; imagens aprovadas, movimento suave de página inteira e transições.",
+  "image_sources": [
+    {
+      "file": "01-setenta-e-cinco.png",
+      "sha256": "c34b6eeaf09ec29b21eedf734b1ce68f07a3bf76c344269063ccf6b7242ce58c"
+    },
+    {
+      "file": "02-chamado.png",
+      "sha256": "5de906502aaf278e2e792fd8f77f4c29a10445756ee9b5e256a41d946426620e"
+    },
+    {
+      "file": "03-promessa.png",
+      "sha256": "408e309827299e5cd7cb42d20e6d67b134c945718f2401de04e2bcf97ca77a3a"
+    },
+    {
+      "file": "04-nome.png",
+      "sha256": "d9c0c7cb54088e538675c7c975b20a4a45b44e397da32220fd4ec9727a9d6523"
+    },
+    {
+      "file": "05-companhia.png",
+      "sha256": "2f7ef65730c17b4eb50c6aa23786cae78554a02a3a4d14f8b9a8cb5538f490e7"
+    },
+    {
+      "file": "06-canaa.png",
+      "sha256": "e75c13fbca5caa9dca55097166ca51e4840303a657ded47de36757431d67ae83"
+    },
+    {
+      "file": "07-altar.png",
+      "sha256": "db2eebe07dd2e99c1b6f32bfd4baa32caf3d54f5731cb037dd4cd81188c1e993"
+    },
+    {
+      "file": "08-encerramento.png",
+      "sha256": "e535bef8dbe4c9dc1943ae7f56b3af87a56ca68cb5fc37c4449649d15a872eee"
+    }
+  ]
+}
