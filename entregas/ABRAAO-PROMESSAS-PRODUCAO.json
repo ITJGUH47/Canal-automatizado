@@ -1,0 +1,169 @@
+{
+  "episode": 9,
+  "title": "Antes de ser Abraão: escolhas, encontros e uma promessa",
+  "production": {
+    "model": "eleven_turbo_v2_5",
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting",
+    "characters": 1630,
+    "cta_reused": true,
+    "cta_characters_saved": 93,
+    "predicted_credits_upper": 769,
+    "credits_observed": 768,
+    "remaining_reported": 4072,
+    "tier": "free",
+    "frames": 3332,
+    "duration": 111.06666666666666,
+    "monthly_budget_brl": 50,
+    "notes": "Roteiro aprovado pelo usuário. Nenhuma mudança de plano, recarga ou cobrança excedente foi autorizada ou realizada. Cache por texto/voz/configuração. O delta de uso é o observado no contador da conta."
+  },
+  "verification": {
+    "duration": 111.066667,
+    "frames": 3332,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "size_bytes": 17424189,
+    "scenes_extracted": 12,
+    "loudness": {
+      "input_i": "-16.17",
+      "input_tp": "-2.30",
+      "input_lra": "3.00",
+      "input_thresh": "-26.91",
+      "output_i": "-15.84",
+      "output_tp": "-1.79",
+      "output_lra": "2.50",
+      "output_thresh": "-26.55",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.16"
+    },
+    "source": "Gênesis 13–18",
+    "cta_verified": true
+  },
+  "audio_checks": [
+    {
+      "scene": "intro",
+      "seconds": 7.736166666666667,
+      "rms": 0.08417030537263573,
+      "words_per_second": 2.585259710881789
+    },
+    {
+      "scene": "herds",
+      "seconds": 9.268666666666666,
+      "rms": 0.0873955092290612,
+      "words_per_second": 2.805149967632885
+    },
+    {
+      "scene": "choice",
+      "seconds": 7.875479166666667,
+      "rms": 0.08523156026006849,
+      "words_per_second": 3.047433621763755
+    },
+    {
+      "scene": "land",
+      "seconds": 5.015520833333333,
+      "rms": 0.09448802357660156,
+      "words_per_second": 2.79133523022285
+    },
+    {
+      "scene": "rescue",
+      "seconds": 7.318208333333334,
+      "rms": 0.08607850091244082,
+      "words_per_second": 2.7329093528129036
+    },
+    {
+      "scene": "melchizedek",
+      "seconds": 11.172708333333333,
+      "rms": 0.08555059685264427,
+      "words_per_second": 2.5956105838259154
+    },
+    {
+      "scene": "children",
+      "seconds": 5.015520833333333,
+      "rms": 0.08680797503819965,
+      "words_per_second": 2.193191966603668
+    },
+    {
+      "scene": "stars",
+      "seconds": 7.689729166666667,
+      "rms": 0.08867506267105035,
+      "words_per_second": 2.9910026089995583
+    },
+    {
+      "scene": "name",
+      "seconds": 7.689729166666667,
+      "rms": 0.09239268293633181,
+      "words_per_second": 3.1210462006951913
+    },
+    {
+      "scene": "sarah",
+      "seconds": 14.172,
+      "rms": 0.09698931132779431,
+      "words_per_second": 2.8224668360146765
+    },
+    {
+      "scene": "recap",
+      "seconds": 11.404916666666667,
+      "rms": 0.08653766917388991,
+      "words_per_second": 2.5427629896462784
+    },
+    {
+      "scene": "end",
+      "seconds": 7.058875,
+      "rms": 0.0903722302424356,
+      "words_per_second": 1.9833188716332277
+    }
+  ],
+  "render": "Python + FFmpeg, imagens aprovadas com movimento suave de página inteira e transições.",
+  "image_sources": [
+    {
+      "file": "01-jornada.png",
+      "sha256": "25125c45829182b78a477dc68f22033a5d9eb9b5d0b4885b3ee4781109d477e7"
+    },
+    {
+      "file": "02-rebanhos.png",
+      "sha256": "7e3a48cdb3ff49b95b6bb0d41b6a39f2ca1c8327f8e67796cb5cbc6ca70ce948"
+    },
+    {
+      "file": "03-escolha.png",
+      "sha256": "d16047107a6b057fa3bd720f4180b6c040f643d9d1477a58dbf152b1d72ba7b1"
+    },
+    {
+      "file": "04-terra.png",
+      "sha256": "a7319c8dbe99cae42a93e8416bd83dff1d3bbab54e311eb345cf585c29422eb3"
+    },
+    {
+      "file": "05-resgate.png",
+      "sha256": "e7da57a6b944783afc403d7f070e127b4af2680fe47dfe518e3b73ab04a4e44e"
+    },
+    {
+      "file": "06-melquisedeque.png",
+      "sha256": "1d867aabb1a3a7d568411b731ec1d484be34530443155e15edd8d8778b8e4b9c"
+    },
+    {
+      "file": "07-sem-filhos.png",
+      "sha256": "b12d6fe8d07d0cc89f68ab7cc6216f82cf763bc632e670482d175f83ce5e0f80"
+    },
+    {
+      "file": "08-estrelas.png",
+      "sha256": "bb4a55a0b1ff12366052c8a4d91ec3412eafc4e237f15189ce91437cee2fced6"
+    },
+    {
+      "file": "09-novo-nome.png",
+      "sha256": "cd49e1dd401204861ddb753485b25e9baef1b19030e2e5615a80165b4f26e6c5"
+    },
+    {
+      "file": "10-sara.png",
+      "sha256": "ec2a2ab7f99fbd418910d7441fab9be4f11d2ea0d1bf240550a8cb65acd5825a"
+    },
+    {
+      "file": "11-capitulos.png",
+      "sha256": "7eb834bffd6763b7f38f8c994db26a4adb9e3d49aed54efffc03736c52faaa7d"
+    },
+    {
+      "file": "12-encerramento.png",
+      "sha256": "0cb0e74578ad1042423c377b5d0caa49e356db0ac72731d2a5f59e42281b4280"
+    }
+  ]
+}

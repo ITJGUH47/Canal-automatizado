@@ -2,6 +2,22 @@
 
 **[Banner do YouTube e fotos de perfil do canal](./identidade/README.md)**
 
+## Curta 09 — Antes de ser Abraão: escolhas, encontros e uma promessa | elevenlabs.io
+
+**[Baixar vídeo Full HD com Brian](./papiro-revela-09-abraao-promessas-1080p.mp4?raw=true)**
+
+**1 minuto e 51 segundos**, doze cenas com as imagens aprovadas e desenhadas por script. Movimento suave de página inteira, transições, voz Brian / Eleven Turbo v2.5, trilha original baixa e áudio estéreo normalizado. Encerramento das três redes reutilizado sem nova síntese.
+
+- [Título e descrição para publicação](./ABRAAO-PROMESSAS-TITULO-E-DESCRICAO.txt)
+- [Roteiro](./ABRAAO-PROMESSAS-ROTEIRO.md)
+- [Capa vertical](./abraao-promessas-capa.png)
+- [Imagens e script](./previas/abraao-promessas/README.md)
+- [Dados de produção e verificação](./ABRAAO-PROMESSAS-PRODUCAO.json)
+
+**Referências:** Gênesis 13:5–18; 14:12–20; 15:1–6; 17:1–8; 18:9–15. A sequência reúne acontecimentos de momentos diferentes, não de um mesmo dia. O nome Abrão é mantido antes de Gênesis 17:5. A preocupação por continuar sem filhos é situada em Gênesis 15, antes do capítulo 16. Ilustrações interpretativas; não há representação humana de Deus nem identificação teológica adicional de Melquisedeque.
+
+Voz sintética: **[ElevenLabs — elevenlabs.io](https://elevenlabs.io)**, com créditos gratuitos; conferir licença do plano antes de uso comercial. Tipografia DejaVu, [licença](./FONT_LICENSE.txt). Episódios anteriores preservados.
+
 ## Curta 08 — Abrão tinha 75 anos quando tudo mudou | elevenlabs.io
 
 **[Baixar versão final Full HD com narração](./papiro-revela-08-abrao-1080p.mp4?raw=true)**
