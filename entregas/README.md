@@ -2,6 +2,22 @@
 
 **[Banner do YouTube e fotos de perfil do canal](./identidade/README.md)**
 
+## Curta 10 — Isaque: o nome que lembra um riso | elevenlabs.io
+
+**[Baixar vídeo Full HD com Brian](./papiro-revela-10-isaque-1080p.mp4?raw=true)**
+
+**1 minuto e 21 segundos**, nove cenas com as ilustrações aprovadas e desenhadas por script. Movimento suave de página inteira, transições, voz Brian / Eleven Turbo v2.5 em frases curtas, trilha original e áudio estéreo normalizado. Encerramento das três redes reutilizado sem nova síntese.
+
+- [Título e descrição para publicação](./ISAQUE-TITULO-E-DESCRICAO.txt)
+- [Roteiro da montagem](./ISAQUE-ROTEIRO.md)
+- [Capa vertical](./isaque-capa.png)
+- [Imagens e script](./previas/isaque/README.md)
+- [Dados de produção e verificação](./ISAQUE-PRODUCAO.json)
+
+**Referências:** Gênesis 17:17–19; 18:9–15; 21:1–7. O nome Isaque foi anunciado antes do nascimento e se relaciona ao verbo hebraico rir. A abertura distingue o nascimento e o retorno aos anúncios anteriores. Abraão tinha cem anos quando o menino nasceu. Aparência, vestuário, tendas e tecidos são interpretações artísticas.
+
+Voz sintética: **[ElevenLabs — elevenlabs.io](https://elevenlabs.io)**, com créditos gratuitos; conferir licença do plano antes de uso comercial. Tipografia DejaVu, [licença](./FONT_LICENSE.txt). Episódios anteriores preservados.
+
 ## Curta 09 — Antes de ser Abraão: escolhas, encontros e uma promessa | elevenlabs.io
 
 **[Baixar vídeo Full HD com Brian](./papiro-revela-09-abraao-promessas-1080p.mp4?raw=true)**

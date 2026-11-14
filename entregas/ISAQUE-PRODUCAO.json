@@ -1,0 +1,140 @@
+{
+  "episode": 10,
+  "title": "Isaque: o nome que lembra um riso",
+  "production": {
+    "model": "eleven_turbo_v2_5",
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting",
+    "characters": 1183,
+    "cta_reused": true,
+    "cta_characters_saved": 93,
+    "predicted_credits_upper": 546,
+    "credits_observed": 541,
+    "remaining_reported": 3531,
+    "tier": "free",
+    "frames": 2435,
+    "duration": 81.16666666666667,
+    "monthly_budget_brl": 50,
+    "notes": "Roteiro aprovado pelo usuário. Nenhuma mudança de plano, recarga ou cobrança excedente foi autorizada ou realizada. Cache por texto/voz/configuração. O delta de uso é o observado no contador da conta.",
+    "credit_counter_pending": false
+  },
+  "verification": {
+    "duration": 81.166667,
+    "frames": 2435,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "size_bytes": 12533968,
+    "scenes_extracted": 9,
+    "loudness": {
+      "input_i": "-16.20",
+      "input_tp": "-2.45",
+      "input_lra": "2.50",
+      "input_thresh": "-27.03",
+      "output_i": "-16.09",
+      "output_tp": "-2.34",
+      "output_lra": "2.40",
+      "output_thresh": "-26.86",
+      "normalization_type": "dynamic",
+      "target_offset": "0.09"
+    },
+    "source": "Gênesis 17:19; 18:9–15; 21:1–7",
+    "cta_verified": true
+  },
+  "audio_checks": [
+    {
+      "scene": "birth",
+      "seconds": 11.219145833333334,
+      "rms": 0.08841627454610283,
+      "words_per_second": 3.119667086955149
+    },
+    {
+      "scene": "promise",
+      "seconds": 7.225333333333333,
+      "rms": 0.09764253067864516,
+      "words_per_second": 3.0448422218121425
+    },
+    {
+      "scene": "announced",
+      "seconds": 11.896458333333333,
+      "rms": 0.08709070338076427,
+      "words_per_second": 3.110169343116824
+    },
+    {
+      "scene": "meaning",
+      "seconds": 4.086729166666666,
+      "rms": 0.0885731122368139,
+      "words_per_second": 2.202250169501894
+    },
+    {
+      "scene": "age",
+      "seconds": 2.6470833333333332,
+      "rms": 0.09343180527872501,
+      "words_per_second": 3.022194238942232
+    },
+    {
+      "scene": "joy",
+      "seconds": 6.037208333333333,
+      "rms": 0.08701962441331655,
+      "words_per_second": 3.3127894377230094
+    },
+    {
+      "scene": "moments",
+      "seconds": 8.572083333333333,
+      "rms": 0.0973818729348086,
+      "words_per_second": 2.4498128615175228
+    },
+    {
+      "scene": "old-age",
+      "seconds": 15.0079375,
+      "rms": 0.0943458065202893,
+      "words_per_second": 2.865150524514111
+    },
+    {
+      "scene": "end",
+      "seconds": 7.058875,
+      "rms": 0.0903722302424356,
+      "words_per_second": 1.9833188716332277
+    }
+  ],
+  "render": "Python + FFmpeg, nove imagens aprovadas com movimento suave de página inteira e transições.",
+  "image_sources": [
+    {
+      "file": "01-nascimento.png",
+      "sha256": "f45327a576309e2dd5e1063944ead7c91bec5784bafc8343ed971328dee64b53"
+    },
+    {
+      "file": "02-promessa.png",
+      "sha256": "3eebdc55f2ddc85382f8531ee9b6369b72c9f51f10ade87a8b674f384d1d817d"
+    },
+    {
+      "file": "03-nome-anunciado.png",
+      "sha256": "03f0e90e33dc283ceec0109cb095ad1000c25386049a6a47d1b2aa03509e9aa9"
+    },
+    {
+      "file": "04-significado.png",
+      "sha256": "eebd51a1012b16b7bc72466ef8d6c7bcbaefca40d73ce91428a1efa24144380a"
+    },
+    {
+      "file": "05-cem-anos.png",
+      "sha256": "debfc1a4f3485ac9ff29679ea3879b3e7c201b5d702dcccb17bb872d6e46f51a"
+    },
+    {
+      "file": "06-sara-celebra.png",
+      "sha256": "963551da49c8a95810c4bd998b4ff49d51899252ebcc4af0e396dfa00b4f5995"
+    },
+    {
+      "file": "07-dois-momentos.png",
+      "sha256": "8e956b41613dc3eacf4c2a725f600e9d03e0cb5efd1e133ccd8e5c885a09652c"
+    },
+    {
+      "file": "08-filho-na-velhice.png",
+      "sha256": "b941bb749b2325708c1398cf69af6c69471fe1dd4ce6a2c3e6608ccbfb66827d"
+    },
+    {
+      "file": "09-encerramento.png",
+      "sha256": "8fd918e9d2aa73b8f8aa59517c1a479bc7495e8e775e97ad9ecfa5c38ded2027"
+    }
+  ]
+}
