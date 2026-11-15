@@ -2,6 +2,23 @@
 
 **[Banner do YouTube e fotos de perfil do canal](./identidade/README.md)**
 
+## Curta 11 — Rebeca e os dez camelos | elevenlabs.io
+
+**[Baixar vídeo narrativo Full HD com Brian](./papiro-revela-11-rebeca-1080p.mp4?raw=true)**
+
+**1 minuto e 35 segundos**, com as 12 composições aprovadas no novo formato de cenário em tela inteira. Personagens e animais em camadas, deslocamento de Rebeca, água e ondulações animadas, movimentos de câmera, legendas curtas e voz Brian / Eleven Turbo v2.5. Treze trechos de montagem: a recapitulação e o encerramento usam a mesma composição dos dez camelos. O encerramento foi reutilizado sem nova síntese.
+
+- [Título e descrição](./REBECA-TITULO-E-DESCRICAO.txt)
+- [Roteiro da montagem](./REBECA-ROTEIRO.md)
+- [Capa vertical](./rebeca-capa.png)
+- [Imagens aprovadas e código de desenho](./previas/rebeca/README.md)
+- [Código da animação e tempos das cenas](./rebeca-producao/README.md)
+- [Dados de produção e verificação](./REBECA-PRODUCAO.json)
+
+**Referência: Gênesis 24:1–27.** Não acrescentamos litros ou contagem de viagens à fonte, não nomeamos o servo e não afirmamos o que Rebeca sabia sobre a oração. Aparência dos personagens e animais, paisagem, fonte e utensílios são interpretações artísticas. Legendas adaptadas em linguagem atual.
+
+Voz sintética: **[ElevenLabs — elevenlabs.io](https://elevenlabs.io)**, com créditos gratuitos; conferir licença do plano antes de uso comercial. Tipografia DejaVu, [licença](./FONT_LICENSE.txt). Episódios anteriores preservados.
+
 ## Curta 10 — Isaque: o nome que lembra um riso | elevenlabs.io
 
 **[Baixar vídeo Full HD com Brian](./papiro-revela-10-isaque-1080p.mp4?raw=true)**

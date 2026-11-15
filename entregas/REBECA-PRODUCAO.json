@@ -1,0 +1,193 @@
+{
+  "episode": 11,
+  "title": "Rebeca e os dez camelos: o encontro junto à fonte",
+  "production": {
+    "model": "eleven_turbo_v2_5",
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting",
+    "characters": 1360,
+    "cta_reused": true,
+    "cta_characters_saved": 93,
+    "predicted_credits_upper": 632,
+    "credits_observed": 629,
+    "remaining_reported": 2902,
+    "tier": "free",
+    "frames": 2844,
+    "duration": 94.8,
+    "monthly_budget_brl": 50,
+    "notes": "Roteiro aprovado pelo usuário. Nenhuma mudança de plano, recarga ou cobrança excedente foi autorizada ou realizada. Cache por texto/voz/configuração. O delta de uso é o observado no contador da conta."
+  },
+  "verification": {
+    "duration": 94.8,
+    "frames": 2844,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "size_bytes": 14340675,
+    "scenes_extracted": 13,
+    "loudness": {
+      "input_i": "-16.60",
+      "input_tp": "-2.18",
+      "input_lra": "3.30",
+      "input_thresh": "-27.51",
+      "output_i": "-15.83",
+      "output_tp": "-1.50",
+      "output_lra": "2.90",
+      "output_thresh": "-26.69",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.17"
+    },
+    "source": "Gênesis 24:1–27",
+    "cta_verified": true
+  },
+  "audio_checks": [
+    {
+      "scene": "arrival",
+      "seconds": 9.574458333333334,
+      "rms": 0.09360245174887422,
+      "words_per_second": 2.6111137705788403
+    },
+    {
+      "scene": "prayer",
+      "seconds": 16.269625,
+      "rms": 0.08727563356317489,
+      "words_per_second": 2.8888188879583883
+    },
+    {
+      "scene": "arrival-rebecca",
+      "seconds": 5.201270833333333,
+      "rms": 0.08014911877140386,
+      "words_per_second": 2.499389171716848
+    },
+    {
+      "scene": "spring",
+      "seconds": 2.7399583333333335,
+      "rms": 0.0780978713731243,
+      "words_per_second": 3.2847214829909213
+    },
+    {
+      "scene": "drink",
+      "seconds": 5.832125,
+      "rms": 0.08962884320908338,
+      "words_per_second": 3.600745868787106
+    },
+    {
+      "scene": "offer",
+      "seconds": 5.805,
+      "rms": 0.08507627690697389,
+      "words_per_second": 2.5839793281653747
+    },
+    {
+      "scene": "trough",
+      "seconds": 2.043375,
+      "rms": 0.08525633204146593,
+      "words_per_second": 2.936318590567076
+    },
+    {
+      "scene": "return",
+      "seconds": 2.2755625,
+      "rms": 0.09103292895564481,
+      "words_per_second": 3.9550660550962675
+    },
+    {
+      "scene": "watch",
+      "seconds": 6.408708333333333,
+      "rms": 0.08105727907840587,
+      "words_per_second": 2.8086782958084378
+    },
+    {
+      "scene": "family",
+      "seconds": 9.036479166666666,
+      "rms": 0.0915305280522099,
+      "words_per_second": 3.3198770723295166
+    },
+    {
+      "scene": "worship",
+      "seconds": 3.8545208333333334,
+      "rms": 0.08705823242973601,
+      "words_per_second": 3.1132274331547913
+    },
+    {
+      "scene": "recap",
+      "seconds": 8.320583333333333,
+      "rms": 0.09279859762312097,
+      "words_per_second": 2.7642292707843
+    },
+    {
+      "scene": "end",
+      "seconds": 7.058875,
+      "rms": 0.0903722302424356,
+      "words_per_second": 1.9833188716332277
+    }
+  ],
+  "motion_check": {
+    "scene": "return",
+    "centroids": [
+      [
+        478.0316609999016,
+        1144.0183340803987
+      ],
+      [
+        655.2732799152374,
+        970.414753989802
+      ]
+    ],
+    "movement_pixels": [
+      177.24161891533578,
+      -173.60358009059678
+    ],
+    "verified": true
+  },
+  "render": "Animação procedural Python/Pillow em camadas, câmera e FFmpeg; 12 composições aprovadas, 13 trechos com recapitulação e CTA separados.",
+  "image_sources": [
+    {
+      "file": "01-dez-camelos.png",
+      "sha256": "9c199fed729701d2b67dd02b1d876e68ee139a82396852d8d97bbf58e571c867"
+    },
+    {
+      "file": "02-oracao.png",
+      "sha256": "06e27b1a35a4633e76320bfd8435c5fbe6ffb029a1d8556cca4b5f581b69e72f"
+    },
+    {
+      "file": "03-rebeca-chega.png",
+      "sha256": "3d1457a9096c2e30c2db7094f56a1b605fd80d07637352a7cdb50b39e5302fc9"
+    },
+    {
+      "file": "04-enche-cantaro.png",
+      "sha256": "625ca40ac820b5ebaf39b71a18759c48c8f6871bcfedbf942b4e3d6d4629625e"
+    },
+    {
+      "file": "05-agua-ao-servo.png",
+      "sha256": "f3ff2c037664bdbddc6aa6132abebd6a7d8f015e32608b7268a2ab77ca56c251"
+    },
+    {
+      "file": "06-oferta-camelos.png",
+      "sha256": "7009fcde9a7a4d604debc33db64fa1cb8ab16b972ca7a145e09f3eaf368d36f3"
+    },
+    {
+      "file": "07-bebedouro.png",
+      "sha256": "f589d74c38f6eb91d769c6dd7751afc1ea1d87604384ded3bd8be32afdee60b4"
+    },
+    {
+      "file": "08-volta-fonte.png",
+      "sha256": "29690db24583a2136472db150a51c40f75a23172d2dd0478a670d6428d15a75b"
+    },
+    {
+      "file": "09-observa.png",
+      "sha256": "9f23a891b14f291d83b17ad973c64fb3ae63e09f8aa2623ee46b2b74a1acbf36"
+    },
+    {
+      "file": "10-familia.png",
+      "sha256": "51199ae2ce2ff6553347cc145eae87cb32fd081f5a95eb45924cd40c818ee4ce"
+    },
+    {
+      "file": "11-adoracao.png",
+      "sha256": "37b237632c86acbd04935fe5968b1a29c779d431e9f7d41ebb42b5923af7dab4"
+    },
+    {
+      "file": "12-encerramento.png",
+      "sha256": "c98666a4f5fb72927199c2df50859031c2d8bbf0e4da50319084f811a281a1b2"
+    }
+  ]
+}

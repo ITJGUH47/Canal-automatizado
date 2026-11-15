@@ -1,0 +1,132 @@
+[
+  {
+    "id": "arrival",
+    "text": "Dez camelos chegaram à fonte. O viajante havia feito uma longa viagem. Abraão enviara seu servo para buscar uma esposa para Isaque entre seus parentes.",
+    "image": "01-dez-camelos.png",
+    "visual": 0,
+    "title": "DEZ CAMELOS.",
+    "ref": "GÊNESIS 24:10–11",
+    "start": 0,
+    "duration": 310
+  },
+  {
+    "id": "prayer",
+    "text": "Perto da cidade de Naor, ele fez os camelos se ajoelharem. Era ao entardecer. Então, orou. Pediu que a jovem a quem solicitasse água também se oferecesse para dar de beber aos camelos. Esse seria o sinal que havia pedido para reconhecer a mulher destinada a Isaque.",
+    "image": "02-oracao.png",
+    "visual": 1,
+    "title": "UMA ORAÇÃO.",
+    "ref": "GÊNESIS 24:12–14",
+    "start": 310,
+    "duration": 510
+  },
+  {
+    "id": "arrival-rebecca",
+    "text": "Antes que terminasse de falar, Rebeca apareceu, trazendo um cântaro sobre o ombro.",
+    "image": "03-rebeca-chega.png",
+    "visual": 2,
+    "title": "REBECA CHEGA.",
+    "ref": "GÊNESIS 24:15",
+    "start": 820,
+    "duration": 178
+  },
+  {
+    "id": "spring",
+    "text": "Ela desceu à fonte, encheu o cântaro e subiu.",
+    "image": "04-enche-cantaro.png",
+    "visual": 3,
+    "title": "JUNTO À FONTE.",
+    "ref": "GÊNESIS 24:16",
+    "start": 998,
+    "duration": 105
+  },
+  {
+    "id": "drink",
+    "text": "O servo correu ao encontro dela e pediu um pouco de água. Rebeca abaixou o cântaro e lhe deu de beber.",
+    "image": "05-agua-ao-servo.png",
+    "visual": 4,
+    "title": "UM POUCO DE ÁGUA.",
+    "ref": "GÊNESIS 24:17–18",
+    "start": 1103,
+    "duration": 197
+  },
+  {
+    "id": "offer",
+    "text": "Depois, ofereceu-se para tirar água também para os camelos, até que todos terminassem de beber.",
+    "image": "06-oferta-camelos.png",
+    "visual": 5,
+    "title": "TAMBÉM AOS CAMELOS.",
+    "ref": "GÊNESIS 24:19",
+    "start": 1300,
+    "duration": 197
+  },
+  {
+    "id": "trough",
+    "text": "Ela esvaziou o cântaro no bebedouro.",
+    "image": "07-bebedouro.png",
+    "visual": 6,
+    "title": "ÁGUA NO BEBEDOURO.",
+    "ref": "GÊNESIS 24:20",
+    "start": 1497,
+    "duration": 84
+  },
+  {
+    "id": "return",
+    "text": "E correu de novo à fonte para tirar água.",
+    "image": "08-volta-fonte.png",
+    "visual": 7,
+    "title": "DE NOVO À FONTE.",
+    "ref": "GÊNESIS 24:20",
+    "start": 1581,
+    "duration": 91
+  },
+  {
+    "id": "watch",
+    "text": "Enquanto isso, o homem a observava em silêncio, para saber se o Senhor havia tornado sua viagem bem-sucedida.",
+    "image": "09-observa.png",
+    "visual": 8,
+    "title": "EM SILÊNCIO.",
+    "ref": "GÊNESIS 24:21",
+    "start": 1672,
+    "duration": 215
+  },
+  {
+    "id": "family",
+    "text": "Quando os camelos terminaram, ele perguntou de quem ela era filha e se havia lugar na casa de seu pai para passarem a noite. Rebeca era da família de Abraão.",
+    "image": "10-familia.png",
+    "visual": 9,
+    "title": "DE QUEM ÉS FILHA?",
+    "ref": "GÊNESIS 24:23–25",
+    "start": 1887,
+    "duration": 293
+  },
+  {
+    "id": "worship",
+    "text": "Ao ouvir sua resposta, o servo se inclinou e adorou ao Senhor.",
+    "image": "11-adoracao.png",
+    "visual": 10,
+    "title": "O SERVO ADOROU.",
+    "ref": "GÊNESIS 24:26–27",
+    "start": 2180,
+    "duration": 138
+  },
+  {
+    "id": "recap",
+    "text": "E o detalhe? O relato diz que eram dez camelos. Rebeca ofereceu água para todos eles, como o servo havia pedido em oração.",
+    "image": "12-encerramento.png",
+    "visual": 11,
+    "title": "PAPIRO REVELA",
+    "ref": "GÊNESIS 24:1–27",
+    "start": 2318,
+    "duration": 272
+  },
+  {
+    "id": "end",
+    "text": "Segue o Papiro Revela no Instagram, TikTok e YouTube. Curiosidades bíblicas, direto do texto.",
+    "image": "12-encerramento.png",
+    "visual": 11,
+    "title": "PAPIRO REVELA",
+    "ref": "GÊNESIS 24:1–27",
+    "start": 2590,
+    "duration": 254
+  }
+]
