@@ -1,0 +1,122 @@
+[
+  {
+    "id": "intro",
+    "text": "Esaú voltou do campo cansado. Jacó havia preparado um cozido. Antes de comer, porém, Esaú ouviria uma condição. Mas a história desses irmãos começa antes daquele encontro.",
+    "visual": 0,
+    "image": "01-panela.png",
+    "title": "UMA CONDIÇÃO.",
+    "ref": "GÊNESIS 25:29–31",
+    "start": 0,
+    "duration": 341
+  },
+  {
+    "id": "parents",
+    "text": "Rebeca, esposa de Isaque, não tinha filhos. Isaque orou por ela, e Rebeca engravidou de gêmeos. Durante a gravidez, os filhos lutavam dentro dela. Quando buscou ao Senhor, recebeu uma resposta: duas nações estavam em seu ventre, e o mais velho serviria ao mais novo.",
+    "visual": 1,
+    "image": "02-oracao.png",
+    "title": "ANTES DOS GÊMEOS.",
+    "ref": "GÊNESIS 25:21–23",
+    "start": 341,
+    "duration": 539
+  },
+  {
+    "id": "twins",
+    "text": "O primeiro a nascer foi Esaú. Depois veio Jacó, segurando o calcanhar do irmão.",
+    "visual": 2,
+    "image": "03-nascimento.png",
+    "title": "DOIS IRMÃOS.",
+    "ref": "GÊNESIS 25:24–26",
+    "start": 880,
+    "duration": 172
+  },
+  {
+    "id": "grown",
+    "text": "Os meninos cresceram. Esaú tornou-se um caçador habilidoso, homem do campo. Jacó era um homem tranquilo, que habitava em tendas.",
+    "visual": 3,
+    "image": "04-irmaos.png",
+    "title": "ELES CRESCERAM.",
+    "ref": "GÊNESIS 25:27",
+    "start": 1052,
+    "duration": 276
+  },
+  {
+    "id": "request",
+    "text": "Então chegamos à panela. Esaú pediu um pouco daquela comida vermelha, porque estava cansado.",
+    "visual": 4,
+    "image": "05-pedido.png",
+    "title": "A COMIDA VERMELHA.",
+    "ref": "GÊNESIS 25:29–30",
+    "start": 1328,
+    "duration": 183
+  },
+  {
+    "id": "birthright",
+    "text": "Naquele encontro, estava em jogo a primogenitura: o direito do filho mais velho, ligado à sua posição na família e à herança.",
+    "visual": 5,
+    "image": "06-primogenitura.png",
+    "title": "O QUE ESTAVA EM JOGO?",
+    "ref": "GÊNESIS 25:31–34",
+    "start": 1511,
+    "duration": 245
+  },
+  {
+    "id": "condition",
+    "text": "Jacó respondeu pedindo que ele vendesse primeiro sua primogenitura. Esaú declarou que estava a ponto de morrer e perguntou de que lhe serviria aquele direito.",
+    "visual": 6,
+    "image": "07-negociacao.png",
+    "title": "A CONDIÇÃO DE JACÓ.",
+    "ref": "GÊNESIS 25:31–32",
+    "start": 1756,
+    "duration": 285
+  },
+  {
+    "id": "oath",
+    "text": "Jacó exigiu um juramento. Esaú jurou e vendeu sua primogenitura ao irmão.",
+    "visual": 7,
+    "image": "08-juramento.png",
+    "title": "O JURAMENTO.",
+    "ref": "GÊNESIS 25:33",
+    "start": 2041,
+    "duration": 160
+  },
+  {
+    "id": "meal",
+    "text": "Jacó lhe deu pão e cozido de lentilhas.",
+    "visual": 8,
+    "image": "09-pao-lentilhas.png",
+    "title": "PÃO E LENTILHAS.",
+    "ref": "GÊNESIS 25:34",
+    "start": 2201,
+    "duration": 96
+  },
+  {
+    "id": "departure",
+    "text": "Esaú comeu, bebeu, levantou-se e foi embora. O relato encerra dizendo que Esaú desprezou sua primogenitura.",
+    "visual": 9,
+    "image": "10-partida.png",
+    "title": "ELE FOI EMBORA.",
+    "ref": "GÊNESIS 25:34",
+    "start": 2297,
+    "duration": 248
+  },
+  {
+    "id": "chapters",
+    "text": "E um detalhe: essa negociação acontece em Gênesis vinte e cinco. A história da bênção de Isaque vem depois, no capítulo vinte e sete. Primogenitura e bênção aparecem em episódios diferentes. Não devemos confundir as duas cenas.",
+    "visual": 10,
+    "image": "11-capitulos.png",
+    "title": "NÃO CONFUNDA AS CENAS.",
+    "ref": "GÊNESIS 25; 27",
+    "start": 2545,
+    "duration": 446
+  },
+  {
+    "id": "end",
+    "text": "Segue o Papiro Revela no Instagram, TikTok e YouTube. Curiosidades bíblicas, direto do texto.",
+    "visual": 11,
+    "image": "12-encerramento.png",
+    "title": "PAPIRO REVELA",
+    "ref": "GÊNESIS 25:19–34",
+    "start": 2991,
+    "duration": 254
+  }
+]

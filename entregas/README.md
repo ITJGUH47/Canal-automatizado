@@ -6,6 +6,23 @@
 
 **[Banner do YouTube e fotos de perfil do canal](./identidade/README.md)**
 
+## Curta 12 — Esaú e Jacó: o preço da primogenitura | elevenlabs.io
+
+**[Baixar vídeo Full HD com Brian](./papiro-revela-12-esau-jaco-1080p.mp4?raw=true)**
+
+**1 minuto e 48 segundos**, 12 cenas com as ilustrações aprovadas. Animação por camadas, movimentos de personagens, vapor do cozido, câmera, legendas curtas, voz Brian / Eleven Turbo v2.5 e trilha original baixa. Encerramento das três redes reutilizado do áudio salvo. Os testes do Chatterbox permanecem separados.
+
+- [Título e descrição](./ESAU-JACO-TITULO-E-DESCRICAO.txt)
+- [Roteiro da montagem](./ESAU-JACO-ROTEIRO.md)
+- [Capa vertical](./esau-jaco-capa.png)
+- [Imagens e script](./previas/esau-jaco/README.md)
+- [Código da animação](./esau-jaco-producao/README.md)
+- [Dados de produção e verificação](./ESAU-JACO-PRODUCAO.json)
+
+**Referência: Gênesis 25:19–34; distinção com Gênesis 27.** Inclui a explicação da primogenitura ligada à posição do filho mais velho e à herança. Não aplica a regra posterior da porção dobrada como detalhe explícito desta negociação. A fala sobre morrer é atribuída a Esaú. Aparência, roupas e gestos são interpretações artísticas.
+
+Voz sintética: **[ElevenLabs — elevenlabs.io](https://elevenlabs.io)**, com créditos gratuitos; conferir licença do plano antes de uso comercial. Tipografia DejaVu, [licença](./FONT_LICENSE.txt). Episódios anteriores preservados.
+
 ## Curta 11 — Rebeca e os dez camelos | elevenlabs.io
 
 **[Baixar vídeo narrativo Full HD com Brian](./papiro-revela-11-rebeca-1080p.mp4?raw=true)**

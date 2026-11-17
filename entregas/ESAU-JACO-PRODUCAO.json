@@ -1,0 +1,185 @@
+{
+  "episode": 12,
+  "title": "Esaú e Jacó: o preço da primogenitura",
+  "production": {
+    "model": "eleven_turbo_v2_5",
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting",
+    "characters": 1558,
+    "cta_reused": true,
+    "cta_characters_saved": 93,
+    "predicted_credits_upper": 733,
+    "credits_observed": 727,
+    "remaining_reported": 2175,
+    "tier": "free",
+    "frames": 3245,
+    "duration": 108.16666666666667,
+    "monthly_budget_brl": 50,
+    "notes": "Roteiro aprovado pelo usuário. Nenhuma mudança de plano, recarga ou cobrança excedente foi autorizada ou realizada. Cache por texto/voz/configuração. O delta de uso é o observado no contador da conta."
+  },
+  "verification": {
+    "duration": 108.166667,
+    "frames": 3245,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "size_bytes": 13370972,
+    "scenes_extracted": 12,
+    "loudness": {
+      "input_i": "-15.97",
+      "input_tp": "-2.40",
+      "input_lra": "2.90",
+      "input_thresh": "-26.80",
+      "output_i": "-15.90",
+      "output_tp": "-2.11",
+      "output_lra": "2.60",
+      "output_thresh": "-26.71",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.10"
+    },
+    "source": "Gênesis 25:19–34; distinção com Gênesis 27",
+    "cta_verified": true
+  },
+  "audio_checks": [
+    {
+      "scene": "intro",
+      "seconds": 10.623229166666667,
+      "rms": 0.08113206011683542,
+      "words_per_second": 2.541600070600002
+    },
+    {
+      "scene": "parents",
+      "seconds": 17.217708333333334,
+      "rms": 0.08042782436877274,
+      "words_per_second": 2.613588238852925
+    },
+    {
+      "scene": "twins",
+      "seconds": 4.996208333333334,
+      "rms": 0.08793480115691389,
+      "words_per_second": 2.8021249447497683
+    },
+    {
+      "scene": "grown",
+      "seconds": 8.459895833333333,
+      "rms": 0.08898548112757348,
+      "words_per_second": 2.364095302591886
+    },
+    {
+      "scene": "request",
+      "seconds": 5.367729166666667,
+      "rms": 0.09290019877639838,
+      "words_per_second": 2.6081792812758344
+    },
+    {
+      "scene": "birthright",
+      "seconds": 7.430395833333334,
+      "rms": 0.09472650844266216,
+      "words_per_second": 2.960811307158939
+    },
+    {
+      "scene": "condition",
+      "seconds": 8.757833333333334,
+      "rms": 0.08800481436082448,
+      "words_per_second": 2.8545873218261746
+    },
+    {
+      "scene": "oath",
+      "seconds": 4.578270833333334,
+      "rms": 0.0898834954660058,
+      "words_per_second": 2.621076916776257
+    },
+    {
+      "scene": "meal",
+      "seconds": 2.461333333333333,
+      "rms": 0.09175779876512685,
+      "words_per_second": 3.250270855904659
+    },
+    {
+      "scene": "departure",
+      "seconds": 7.503958333333333,
+      "rms": 0.09610857615232586,
+      "words_per_second": 2.13220800133263
+    },
+    {
+      "scene": "chapters",
+      "seconds": 14.106270833333333,
+      "rms": 0.08873235204883279,
+      "words_per_second": 2.6229469458766124
+    },
+    {
+      "scene": "end",
+      "seconds": 7.058875,
+      "rms": 0.0903722302424356,
+      "words_per_second": 1.9833188716332277
+    }
+  ],
+  "motion_check": {
+    "scene": "intro",
+    "description": "Esaú se aproxima pelo lado direito durante a abertura.",
+    "centroids": [
+      [
+        866.0035241267137,
+        1219.3196111842615
+      ],
+      [
+        791.8912738101927,
+        1227.96559345208
+      ]
+    ],
+    "horizontal_displacement_pixels": -74.112250316521,
+    "verified": true
+  },
+  "render": "Animação procedural em camadas Python/Pillow e FFmpeg, com as 12 composições aprovadas.",
+  "image_sources": [
+    {
+      "file": "01-panela.png",
+      "sha256": "44d87cf3b9ed949e4d0195e8fcaad5b1497240d99d417432ad9bca8a06ad9dd6"
+    },
+    {
+      "file": "02-oracao.png",
+      "sha256": "98b046754d41e38a0bd71f9c3b12809d6d40ee7280c523c81fb93b848ebf534d"
+    },
+    {
+      "file": "03-nascimento.png",
+      "sha256": "ad90361b50d0a9151bd3e59fad52b1593fa4c61a8e0c6d74bf330a7fb8c8d3fd"
+    },
+    {
+      "file": "04-irmaos.png",
+      "sha256": "d045dcb73af447e16cdf0d6059126bf420919f92719449d16dad8037d8eafd72"
+    },
+    {
+      "file": "05-pedido.png",
+      "sha256": "da5ec4e778493039f4463e1537a66476376a0dc6ce69ca9b50241ad7359a13d8"
+    },
+    {
+      "file": "06-primogenitura.png",
+      "sha256": "63db0018940d0ada060e23d4b8e05002c5ace17b5834bf8d665851e1e8b3e1cb"
+    },
+    {
+      "file": "07-negociacao.png",
+      "sha256": "3ec11195ddddeb57a91b3ab1619168a6f6448cf2fb905e56238ee6bfeaf9a0d5"
+    },
+    {
+      "file": "08-juramento.png",
+      "sha256": "8dacbb79a33d4d08dcd289c9515c88f373225e7a64381de72a89759f62e91216"
+    },
+    {
+      "file": "09-pao-lentilhas.png",
+      "sha256": "3499053fdd0a7e45fd5171f9021bf60a8ecf182922a4778405a1884e454b1065"
+    },
+    {
+      "file": "10-partida.png",
+      "sha256": "f3958acbdaa326e4921bec55039e1656be9c4aa4ea33a4ae2f711541632cbb67"
+    },
+    {
+      "file": "11-capitulos.png",
+      "sha256": "7e3730d51d6162faa305636cb2e38383dc6cae5a15188422e7e737d5bcca4a91"
+    },
+    {
+      "file": "12-encerramento.png",
+      "sha256": "cdec5e6546be394b170c38efe7a11c13955474dbbb826149e4a2a726f4c0b4f2"
+    }
+  ]
+}
