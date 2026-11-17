@@ -1,5 +1,7 @@
 # Papiro Revela — vídeos
 
+**[Teste Chatterbox — narração mais pausada e grave](./testes/chatterbox-narrativa/README.md)**
+
 **[Teste de voz local — Chatterbox: suave, equilibrada e expressiva](./testes/chatterbox/README.md)**
 
 **[Banner do YouTube e fotos de perfil do canal](./identidade/README.md)**

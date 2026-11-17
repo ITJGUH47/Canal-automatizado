@@ -1,0 +1,23 @@
+{
+  "duration": 13.288,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "size_bytes": 686329,
+  "audio_codec": "aac",
+  "loudness": {
+    "input_i": "-16.39",
+    "input_tp": "-5.33",
+    "input_lra": "4.60",
+    "input_thresh": "-27.61",
+    "output_i": "-15.87",
+    "output_tp": "-4.62",
+    "output_lra": "4.20",
+    "output_thresh": "-26.83",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.13"
+  },
+  "slower_duration_verified": true,
+  "elevenlabs_calls": 0
+}

@@ -1,0 +1,22 @@
+{
+  "source": "../chatterbox/voz-equilibrada.wav",
+  "tempo_ratio": 0.88,
+  "pitch_ratio": 0.94,
+  "pitch_semitones": -1.0712080571650489,
+  "equalizer_db_at_130hz": 2,
+  "filter": "rubberband=tempo=0.88:pitch=0.94:transients=smooth:detector=soft:window=long:pitchq=quality,highpass=f=65,equalizer=f=130:t=q:w=0.8:g=2,acompressor=threshold=0.18:ratio=2:attack=15:release=180,loudnorm=I=-16:TP=-2.5:LRA=9",
+  "samples": [
+    {
+      "name": "original",
+      "audio_duration": 5.4,
+      "video_duration": 6.266666666666667
+    },
+    {
+      "name": "narrativa",
+      "audio_duration": 6.136375,
+      "video_duration": 7.0
+    }
+  ],
+  "new_tts_generation": false,
+  "elevenlabs_calls": 0
+}
