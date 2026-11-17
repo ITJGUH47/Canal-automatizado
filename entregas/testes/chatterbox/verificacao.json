@@ -1,0 +1,28 @@
+{
+  "duration": 17.587696,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "size_bytes": 1230695,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "samples": 3,
+  "unique_audio": true,
+  "language_parameter": "pt",
+  "voice_reference": "builtin default",
+  "loudness": {
+    "input_i": "-16.89",
+    "input_tp": "-5.24",
+    "input_lra": "2.40",
+    "input_thresh": "-27.47",
+    "output_i": "-16.11",
+    "output_tp": "-4.60",
+    "output_lra": "3.80",
+    "output_thresh": "-26.70",
+    "normalization_type": "dynamic",
+    "target_offset": "0.11"
+  },
+  "elevenlabs_calls": 0,
+  "generation_seconds": 172.9201238590001
+}

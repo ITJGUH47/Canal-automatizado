@@ -1,5 +1,7 @@
 # Papiro Revela — vídeos
 
+**[Teste de voz local — Chatterbox: suave, equilibrada e expressiva](./testes/chatterbox/README.md)**
+
 **[Banner do YouTube e fotos de perfil do canal](./identidade/README.md)**
 
 ## Curta 11 — Rebeca e os dez camelos | elevenlabs.io

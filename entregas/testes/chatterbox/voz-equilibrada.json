@@ -1,0 +1,18 @@
+{
+  "preset": "equilibrada",
+  "settings": {
+    "exaggeration": 0.45,
+    "cfg_weight": 0.5,
+    "temperature": 0.7
+  },
+  "text": "Esaú voltou do campo cansado. Jacó havia preparado um cozido. Mas havia uma condição.",
+  "language": "pt",
+  "device": "cpu",
+  "sample_rate": 24000,
+  "duration": 5.4,
+  "generation_seconds": 56.36836707500004,
+  "seed": 42,
+  "model_snapshot": "5bb1f6ee58e50c3b8d408bc82a6d3740c2db6e18",
+  "reference": "builtin default voice, no external reference",
+  "sha256": "18543c13f550579ebc139838c206cda02f1681d7af3a00b3c7739a7b36b56e46"
+}
