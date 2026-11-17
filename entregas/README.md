@@ -6,6 +6,23 @@
 
 **[Banner do YouTube e fotos de perfil do canal](./identidade/README.md)**
 
+## Curta 13 — Esaú e Jacó — Parte 2: a bênção de Isaque | elevenlabs.io
+
+**[Baixar vídeo Full HD com Brian](./papiro-revela-13-esau-jaco-parte2-1080p.mp4?raw=true)**
+
+**1 minuto e 59 segundos**, 12 cenas no visual de papiro e cartões aprovado. Movimentos articulados de braços e cabeça, entrega da refeição, toque nas mãos de Jacó, bênção e chegada de Esaú. Narração Brian / Eleven Turbo v2.5 e encerramento das três redes reutilizado. Somente os intervalos entre cenas foram ajustados; a velocidade e o tom da fala foram preservados.
+
+- [Título e descrição](./ESAU-JACO-PARTE2-TITULO-E-DESCRICAO.txt)
+- [Roteiro](./ESAU-JACO-PARTE2-ROTEIRO.md)
+- [Capa vertical](./esau-jaco-parte2-capa.png)
+- [Imagens e prévia silenciosa aprovada](./previas/esau-jaco-parte2/README.md)
+- [Código da animação e tempos](./esau-jaco-parte2-producao/README.md)
+- [Dados de produção e verificação](./ESAU-JACO-PARTE2-PRODUCAO.json)
+
+**Referência: Gênesis 27:1–45; distinção com Gênesis 25.** O engano é uma ação dos personagens, sem apresentá-lo como ordem de Deus. Aparência, vestuário, tenda, utensílios e gestos são interpretações artísticas. Sem preparação gráfica das peles ou violência explícita.
+
+Voz sintética: **[ElevenLabs — elevenlabs.io](https://elevenlabs.io)**, com créditos gratuitos; conferir licença do plano antes de uso comercial. Tipografia DejaVu, [licença](./FONT_LICENSE.txt). Episódios anteriores e testes preservados.
+
 ## Curta 12 — Esaú e Jacó: o preço da primogenitura | elevenlabs.io
 
 **[Baixar vídeo Full HD com Brian](./papiro-revela-12-esau-jaco-1080p.mp4?raw=true)**

@@ -1,0 +1,176 @@
+{
+  "episode": 13,
+  "title": "Esaú e Jacó — Parte 2: a bênção de Isaque",
+  "production": {
+    "model": "eleven_turbo_v2_5",
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "voice_name": "Brian - Deep, Resonant and Comforting",
+    "characters": 1758,
+    "cta_reused": true,
+    "cta_characters_saved": 93,
+    "predicted_credits_upper": 831,
+    "credits_observed": 824,
+    "remaining_reported": 1351,
+    "tier": "free",
+    "frames": 3595,
+    "duration": 119.83333333333333,
+    "monthly_budget_brl": 50,
+    "notes": "Roteiro aprovado pelo usuário. Nenhuma mudança de plano, recarga ou cobrança excedente foi autorizada ou realizada. Cache por texto/voz/configuração. O delta de uso é o observado no contador da conta.",
+    "pause_adjustment": "Somente os intervalos entre cenas foram reduzidos; voz e ritmo das falas preservados."
+  },
+  "verification": {
+    "duration": 119.833333,
+    "frames": 3595,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "size_bytes": 11726526,
+    "scenes_extracted": 12,
+    "loudness": {
+      "input_i": "-16.51",
+      "input_tp": "-2.37",
+      "input_lra": "2.70",
+      "input_thresh": "-27.16",
+      "output_i": "-16.07",
+      "output_tp": "-1.83",
+      "output_lra": "2.50",
+      "output_thresh": "-26.69",
+      "normalization_type": "dynamic",
+      "target_offset": "0.07"
+    },
+    "source": "Gênesis 27:1–45; distinção com Gênesis 25",
+    "cta_verified": true
+  },
+  "audio_checks": [
+    {
+      "scene": "call",
+      "seconds": 18.080791666666666,
+      "rms": 0.08825976969861299,
+      "words_per_second": 2.4335217622753427
+    },
+    {
+      "scene": "plan",
+      "seconds": 9.853104166666666,
+      "rms": 0.09323063593172205,
+      "words_per_second": 2.8417440358262733
+    },
+    {
+      "scene": "concern",
+      "seconds": 9.342229166666666,
+      "rms": 0.09465418339463275,
+      "words_per_second": 2.783061680050488
+    },
+    {
+      "scene": "disguise",
+      "seconds": 9.129354166666667,
+      "rms": 0.0801424417563701,
+      "words_per_second": 3.176566432912149
+    },
+    {
+      "scene": "meal",
+      "seconds": 8.738541666666666,
+      "rms": 0.08732879892568646,
+      "words_per_second": 2.746453689355108
+    },
+    {
+      "scene": "hands",
+      "seconds": 7.616145833333333,
+      "rms": 0.08191081653205108,
+      "words_per_second": 2.4947001299322986
+    },
+    {
+      "scene": "blessing",
+      "seconds": 6.621604166666667,
+      "rms": 0.09010250629359698,
+      "words_per_second": 2.7183745127219296
+    },
+    {
+      "scene": "return",
+      "seconds": 5.061958333333333,
+      "rms": 0.08711475158749636,
+      "words_per_second": 2.9632800217307205
+    },
+    {
+      "scene": "discovery",
+      "seconds": 8.2934375,
+      "rms": 0.08760066338318745,
+      "words_per_second": 2.6526998002939073
+    },
+    {
+      "scene": "escape",
+      "seconds": 11.385604166666667,
+      "rms": 0.08371595877397446,
+      "words_per_second": 3.161887544395426
+    },
+    {
+      "scene": "recap",
+      "seconds": 11.710666666666667,
+      "rms": 0.08811707345818287,
+      "words_per_second": 2.732551519981783
+    },
+    {
+      "scene": "end",
+      "seconds": 7.058875,
+      "rms": 0.0903722302424356,
+      "words_per_second": 1.9833188716332277
+    }
+  ],
+  "motion_check": {
+    "scene": "hands",
+    "changed_fraction_in_hand_region": 0.20598095238095238,
+    "verified": true,
+    "description": "Mudança visual confirmada na região das mãos em dois quadros renderizados; articulação e câmera."
+  },
+  "render": "Python/Pillow e FFmpeg. Visual de papiro aprovado e braços articulados por ombro-cotovelo-punho, rotação de cabeça e câmera.",
+  "image_sources": [
+    {
+      "file": "01-pedido.png",
+      "sha256": "c958827a5be409f35eb5721d331905807568508d27abe1711fbf23cdee1354ce"
+    },
+    {
+      "file": "02-plano.png",
+      "sha256": "4215f3143b0783139d3b664a7c17cce5c810a2b4de82e7b1404d71aee59ccc67"
+    },
+    {
+      "file": "03-diferenca.png",
+      "sha256": "65ea9a247429ef1393a9b277b2d1fe89bb04f651ae2b84f93f49379abd6268fd"
+    },
+    {
+      "file": "04-disfarce.png",
+      "sha256": "c8569743d8a0cffd915e47cb68209bff5ac4c859d270f2a9f1639d1da27608b4"
+    },
+    {
+      "file": "05-refeicao.png",
+      "sha256": "b522cdd2644ce5cdceb2d73788673ca012aeec9dfc43f94256d843ecc3ae46f5"
+    },
+    {
+      "file": "06-maos.png",
+      "sha256": "647b51c0a006628bd19058ef8df182b49d7f5b6381753b91d9972b7242434a16"
+    },
+    {
+      "file": "07-bencao.png",
+      "sha256": "487be8152c84e3d6ed2344952c4870a5fbe28421d4e710785d6e98c9e18898f2"
+    },
+    {
+      "file": "08-esau.png",
+      "sha256": "94894b3da8d559471a719e261b00f71bb8a94931b675e2dc7185c71c30c80d77"
+    },
+    {
+      "file": "09-descoberta.png",
+      "sha256": "1857d3b79565d2749b03b623b39a236f028738eae5605abbeb14f720f25691f5"
+    },
+    {
+      "file": "10-fuga.png",
+      "sha256": "6ca190c2e7e3ed18d34ffe7131176b15f7ee990972fe45e5f287fe9b7b9185a0"
+    },
+    {
+      "file": "11-episodios.png",
+      "sha256": "f45d350dad84ed648131788724b82669ae77957570abac9813a518e8b8cfbf78"
+    },
+    {
+      "file": "12-encerramento.png",
+      "sha256": "d4bcd5116c33d3c1b8afc053875eca0f34d969041b46d51ad2b4c9e986475a5e"
+    }
+  ]
+}
