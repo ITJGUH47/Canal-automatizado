@@ -1,0 +1,170 @@
+[
+  {
+    "file": "01-panela.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "shot": "UMA CONDIÇÃO.",
+    "reference": "GÊNESIS 25:29–31",
+    "caption": [
+      "ESAÚ VOLTOU CANSADO.",
+      "JACÓ TINHA UM COZIDO."
+    ],
+    "description": "Abertura antecipa o encontro junto à panela; depois retorna ao início da história."
+  },
+  {
+    "file": "02-oracao.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "shot": "ANTES DOS GÊMEOS.",
+    "reference": "GÊNESIS 25:21–23",
+    "caption": [
+      "ISAQUE OROU.",
+      "REBECA ENGRAVIDOU."
+    ],
+    "description": "Rebeca e Isaque na tenda, antes do nascimento; sem imagem humana de Deus ou luta literal de bebês."
+  },
+  {
+    "file": "03-nascimento.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "shot": "DOIS IRMÃOS.",
+    "reference": "GÊNESIS 25:24–26",
+    "caption": [
+      "JACÓ NASCEU SEGURANDO",
+      "O CALCANHAR DE ESAÚ."
+    ],
+    "description": "Dois recém-nascidos envoltos em tecido, sem parto explícito; gesto do calcanhar interpretado visualmente."
+  },
+  {
+    "file": "04-irmaos.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "shot": "ELES CRESCERAM.",
+    "reference": "GÊNESIS 25:27",
+    "caption": [
+      "ESAÚ, HOMEM DO CAMPO.",
+      "JACÓ HABITAVA EM TENDAS."
+    ],
+    "description": "Esaú e Jacó adultos, aparência consistente nas cenas posteriores. Sem morte de animais."
+  },
+  {
+    "file": "05-pedido.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "shot": "A COMIDA VERMELHA.",
+    "reference": "GÊNESIS 25:29–30",
+    "caption": [
+      "ESAÚ PEDIU UM POUCO",
+      "DAQUELE COZIDO."
+    ],
+    "description": "Pedido junto à panela; não retratar Esaú como comprovadamente moribundo."
+  },
+  {
+    "file": "06-primogenitura.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "shot": "O QUE ESTAVA EM JOGO?",
+    "reference": "GÊNESIS 25:31–34",
+    "caption": [
+      "PRIMOGENITURA: O DIREITO",
+      "DO FILHO MAIS VELHO."
+    ],
+    "description": "Explicação geral de posição familiar e herança. Não atribuir automaticamente a regra posterior de porção dobrada ao contrato narrado aqui."
+  },
+  {
+    "file": "07-negociacao.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "shot": "A CONDIÇÃO DE JACÓ.",
+    "reference": "GÊNESIS 25:31–32",
+    "caption": [
+      "JACÓ PEDIU",
+      "A PRIMOGENITURA."
+    ],
+    "description": "Negociação entre irmãos. A frase sobre estar a ponto de morrer é declaração de Esaú, não diagnóstico do narrador."
+  },
+  {
+    "file": "08-juramento.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "shot": "O JURAMENTO.",
+    "reference": "GÊNESIS 25:33",
+    "caption": [
+      "ESAÚ JUROU",
+      "E VENDEU SEU DIREITO."
+    ],
+    "description": "Gesto de mão erguida é interpretação artística; não implica contrato escrito ou gesto ritual especificado pelo texto."
+  },
+  {
+    "file": "09-pao-lentilhas.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "shot": "PÃO E LENTILHAS.",
+    "reference": "GÊNESIS 25:34",
+    "caption": [
+      "JACÓ LHE DEU PÃO",
+      "E COZIDO DE LENTILHAS."
+    ],
+    "description": "Plano de comida e mãos; sem acrescentar carne ou quantidade de porções."
+  },
+  {
+    "file": "10-partida.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "shot": "ELE FOI EMBORA.",
+    "reference": "GÊNESIS 25:34",
+    "caption": [
+      "ELE COMEU, BEBEU,",
+      "LEVANTOU-SE E PARTIU."
+    ],
+    "description": "Partida após a refeição, sem afirmar arrependimento, satisfação ou outros pensamentos não informados."
+  },
+  {
+    "file": "11-capitulos.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "shot": "NÃO CONFUNDA AS CENAS.",
+    "reference": "GÊNESIS 25; 27",
+    "caption": [
+      "A PRIMOGENITURA É UMA CENA.",
+      "A BÊNÇÃO VEM DEPOIS."
+    ],
+    "description": "Distinção entre os episódios; não antecipar o disfarce de Jacó nem dizer que os temas não possuem relação."
+  },
+  {
+    "file": "12-encerramento.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "shot": "PAPIRO REVELA",
+    "reference": "GÊNESIS 25:19–34",
+    "caption": [
+      "SEGUE O PAPIRO REVELA.",
+      "INSTAGRAM · TIKTOK · YOUTUBE"
+    ],
+    "description": "Encerramento do canal com os irmãos e os elementos principais do episódio."
+  }
+]
