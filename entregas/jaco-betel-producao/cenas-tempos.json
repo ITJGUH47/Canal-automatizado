@@ -1,0 +1,122 @@
+[
+  {
+    "id": "betel-1",
+    "text": "Depois do conflito com Esaú, Jacó deixou sua família. No caminho para Harã, o sol se pôs, e ele parou para passar a noite.",
+    "visual": 0,
+    "image": "01-caminho.png",
+    "title": "O SOL SE PÔS.",
+    "ref": "GÊNESIS 28:10–11",
+    "start": 0,
+    "duration": 239
+  },
+  {
+    "id": "betel-2",
+    "text": "Escolheu uma das pedras daquele lugar, colocou-a como apoio para a cabeça e se deitou.",
+    "visual": 1,
+    "image": "02-pedra.png",
+    "title": "UMA PEDRA.",
+    "ref": "GÊNESIS 28:11",
+    "start": 239,
+    "duration": 168
+  },
+  {
+    "id": "betel-3",
+    "text": "Então, sonhou. No sonho, havia uma escada apoiada na terra, cujo topo alcançava os céus. Anjos de Deus subiam e desciam por ela.",
+    "visual": 2,
+    "image": "03-sonho.png",
+    "title": "ENTÃO, SONHOU.",
+    "ref": "GÊNESIS 28:12",
+    "start": 407,
+    "duration": 276
+  },
+  {
+    "id": "betel-4",
+    "text": "O Senhor falou com Jacó, apresentando-se como o Deus de Abraão e de Isaque.",
+    "visual": 3,
+    "image": "04-promessa.png",
+    "title": "UMA NOVA GERAÇÃO.",
+    "ref": "GÊNESIS 28:13",
+    "start": 683,
+    "duration": 155
+  },
+  {
+    "id": "betel-5",
+    "text": "A promessa alcançava uma nova geração: aquela terra seria dada a Jacó e à sua descendência. Seus descendentes seriam numerosos como o pó da terra, e por meio dele e de sua descendência todas as famílias da terra seriam abençoadas.",
+    "visual": 4,
+    "image": "05-descendencia.png",
+    "title": "TERRA E DESCENDÊNCIA.",
+    "ref": "GÊNESIS 28:13–14",
+    "start": 838,
+    "duration": 449
+  },
+  {
+    "id": "betel-6",
+    "text": "E havia uma promessa para a própria jornada: Deus estaria com ele, o guardaria por onde fosse e o traria de volta àquela terra.",
+    "visual": 5,
+    "image": "06-jornada.png",
+    "title": "NA SUA JORNADA.",
+    "ref": "GÊNESIS 28:15",
+    "start": 1287,
+    "duration": 249
+  },
+  {
+    "id": "betel-7",
+    "text": "Quando acordou, Jacó reconheceu que o Senhor estava naquele lugar e que ele não sabia disso. Tomado de temor, chamou aquele lugar de casa de Deus e porta dos céus.",
+    "visual": 6,
+    "image": "07-despertar.png",
+    "title": "ELE DESPERTOU.",
+    "ref": "GÊNESIS 28:16–17",
+    "start": 1536,
+    "duration": 318
+  },
+  {
+    "id": "betel-8",
+    "text": "Na manhã seguinte, levantou-se cedo, tomou a pedra que havia usado como apoio para a cabeça e a colocou como coluna.",
+    "visual": 7,
+    "image": "08-coluna.png",
+    "title": "A PEDRA FOI ERGUIDA.",
+    "ref": "GÊNESIS 28:18",
+    "start": 1854,
+    "duration": 233
+  },
+  {
+    "id": "betel-9",
+    "text": "Depois, derramou azeite sobre ela.",
+    "visual": 8,
+    "image": "09-azeite.png",
+    "title": "AZEITE SOBRE ELA.",
+    "ref": "GÊNESIS 28:18",
+    "start": 2087,
+    "duration": 85
+  },
+  {
+    "id": "betel-10",
+    "text": "Jacó chamou o lugar de Betel, nome relacionado à expressão casa de Deus. Mas um detalhe costuma passar despercebido: antes disso, a cidade se chamava Luz.",
+    "visual": 9,
+    "image": "10-betel.png",
+    "title": "ANTES, ERA LUZ.",
+    "ref": "GÊNESIS 28:19",
+    "start": 2172,
+    "duration": 306
+  },
+  {
+    "id": "betel-11",
+    "text": "O relato termina com um voto de Jacó, no qual ele menciona proteção, alimento, roupa e o retorno em paz à casa de seu pai. Uma parada no caminho se tornou um marco em sua história. Você já conhecia o nome anterior de Betel?",
+    "visual": 10,
+    "image": "11-voto.png",
+    "title": "UM VOTO.",
+    "ref": "GÊNESIS 28:20–22",
+    "start": 2478,
+    "duration": 454
+  },
+  {
+    "id": "end",
+    "text": "Segue o Papiro Revela no Instagram, TikTok e YouTube. Curiosidades bíblicas, direto do texto.",
+    "visual": 11,
+    "image": "12-encerramento.png",
+    "title": "SEGUE O PAPIRO REVELA.",
+    "ref": "GÊNESIS 28:10–22",
+    "start": 2932,
+    "duration": 252
+  }
+]
