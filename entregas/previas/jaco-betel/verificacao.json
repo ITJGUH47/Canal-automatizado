@@ -1,0 +1,103 @@
+{
+  "resultado": "12 imagens PNG verificadas; painel revisado visualmente",
+  "imagens": [
+    {
+      "arquivo": "01-caminho.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "2ad8e9ed1a84043177043d38a227cab9f0823c4f48d71112c5118039f52545ff"
+    },
+    {
+      "arquivo": "02-pedra.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "5376959840b5dd0f8a6ebfa94da1eb79970f941f96c47d77fe7751f947b4c88c"
+    },
+    {
+      "arquivo": "03-sonho.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "40e8f35db5505d2201c3c26978ac9abc5a062bbf5413ddcea687b80f32a4e61d"
+    },
+    {
+      "arquivo": "04-promessa.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "bfafd47a336e34d3ec8af998f335eaa8f51098f7c4dc7015b6f975c8421cff5c"
+    },
+    {
+      "arquivo": "05-descendencia.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "9900c5dc4b66bf8b5b827e3d5c085d2c8afba8c89d676d76413cb1f7c3351016"
+    },
+    {
+      "arquivo": "06-jornada.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "9022c7b1de11f83fa99656b7dad07d6afd9fb374eb812df784e6bde5eba7ead3"
+    },
+    {
+      "arquivo": "07-despertar.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "0266e56b3f141e3ccf75013bcfc91b51f0d81eafc2a72fdd5a2dd877a66f347e"
+    },
+    {
+      "arquivo": "08-coluna.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "bc0a503b3dad9d7e1e3ae4b38bee9fad0198abeae27b403079c0526c67140fc1"
+    },
+    {
+      "arquivo": "09-azeite.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "fa871b6c63a549c164122d64cb49882d495377cb9b1b04198811e6b160283e86"
+    },
+    {
+      "arquivo": "10-betel.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "38e3d429291468e59652af1f26112e2902aeff03a8b6ee3ea8c63ceec0cd1040"
+    },
+    {
+      "arquivo": "11-voto.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "901e2e1520efb3558259a9357573617f66ac7f725b120b612fa5ac35a5256217"
+    },
+    {
+      "arquivo": "12-encerramento.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "b754438445da0838b4548a817b938a14d29bf29b4de2f15101b3720d36b32ac6"
+    }
+  ],
+  "narracao_gerada": false,
+  "creditos_de_voz_utilizados": 0
+}
