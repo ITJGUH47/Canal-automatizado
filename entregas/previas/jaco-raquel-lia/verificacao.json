@@ -1,0 +1,102 @@
+{
+  "imagens": [
+    {
+      "arquivo": "01-amanhecer.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "e456c03548d74a289dc45082a4564a8593a4a0cce8e55aeea625fb46b95567c9"
+    },
+    {
+      "arquivo": "02-poco.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "90b7e0643e26c8ff1fbb5307aaa1740b6bccade9e53ee14c93d275f2f2e8b6ae"
+    },
+    {
+      "arquivo": "03-labao.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "6ed6118cabda79d9011239cb3d6ed8eece42b11b01380f22c3fa4916d43b2bee"
+    },
+    {
+      "arquivo": "04-proposta.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "250fbd6ba77c339d407113b8861f9ef86c2da0bbf1e6821c39b83cfbf3d11c58"
+    },
+    {
+      "arquivo": "05-trabalho.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "be46a054c65192d2538023f8d1a3655b66327234ff30b1faa14da363f4d1b50c"
+    },
+    {
+      "arquivo": "06-festa.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "45cb559b0eac1b8ab578d34b2643a60e1095dc2c8a2f3c82b78c5e371405b161"
+    },
+    {
+      "arquivo": "07-noite.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "298b9f5c9354ecba4fdd6f3c77bff3f4e46cb464ea06aabb395ee3a9d4018f01"
+    },
+    {
+      "arquivo": "08-confronto.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "76bc854c2e357ac5a6cf54bce82935a1780e2fdfece656bc788e483d8232773c"
+    },
+    {
+      "arquivo": "09-costume.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "e7c81cd913b33e0696c33d00fafc1b0b7320af8a3537f3fcffe73424551fce19"
+    },
+    {
+      "arquivo": "10-semana.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "2e7edc95f6ce1a7a9aae7c54283b2facada7c1fedb3da9dcb1d7c772e16ad102"
+    },
+    {
+      "arquivo": "11-cronologia.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "fa972490864c144ccbdcf2084a76f481ebf844957c131966b72e33229f91af01"
+    },
+    {
+      "arquivo": "12-encerramento.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "d811b5dac4e087a0aab5ebef498c2674f5c2023345009bc2d563b36ecb14576a"
+    }
+  ],
+  "narracao_gerada": false,
+  "creditos_de_voz_utilizados": 0
+}
