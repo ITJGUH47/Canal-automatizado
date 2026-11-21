@@ -1,0 +1,102 @@
+{
+  "imagens": [
+    {
+      "arquivo": "01-lia.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "38807283da270ab59bb18556a8f794c168ed8435f7ad47f84f384233852d259a"
+    },
+    {
+      "arquivo": "02-familia.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "b70e91015cff46ca3ca251aefefbfaab07bec4eb9b872150db637bfdf0282f55"
+    },
+    {
+      "arquivo": "03-aflicao.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "8ef5e69b3520bfeeac44fe460f879863648df4d2eca09ffc709ae26e66e2d834"
+    },
+    {
+      "arquivo": "04-ruben.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "50b131b5d2c5ac7e738761a215a11361d00a3a5f9ed3e6b2628e12c1222f64ad"
+    },
+    {
+      "arquivo": "05-esperanca.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "b64e333ae328557a9f25f4ee78542488091dc00fcbaf63d1d7e89549661f6b26"
+    },
+    {
+      "arquivo": "06-simeao.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "fc3bed362d8777123af2b1151eb34bf4f4ee0ec36be343d7d76051cefb6d32a0"
+    },
+    {
+      "arquivo": "07-levi.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "aa8f8784850961d2f585c0b76e51a2c53ea08bfe21043ce066a82596b3dbe31c"
+    },
+    {
+      "arquivo": "08-palavras.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "c12058958367d68054a3669ced4f6487b745f2415bde0c8b1d6dd1eb1fbeb9d1"
+    },
+    {
+      "arquivo": "09-juda.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "42419bfccd4ffe56440c4735a38d71d66da627414fda7b412c5e08d7ca67f284"
+    },
+    {
+      "arquivo": "10-louvor.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "3ed8e2d95dfba6c551a1f6ea73df698291a1767bc7bcd926a6eeae5919e76168"
+    },
+    {
+      "arquivo": "11-nomes.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "5c3fdb13d0eeb509905be80ee902d50fb0f5884cac0244c933febecc6b86c25c"
+    },
+    {
+      "arquivo": "12-encerramento.png",
+      "dimensoes": [
+        1080,
+        1920
+      ],
+      "sha256": "2cd2fbb45392b1f775dd83db3fb2217f928c3178fb5841889718c5673b085881"
+    }
+  ],
+  "narracao_gerada": false,
+  "creditos_de_voz_utilizados": 0
+}
