@@ -1,0 +1,122 @@
+[
+  {
+    "id": "lia-1",
+    "text": "Jacó trabalhou sete anos para se casar com Raquel. Mas, quando amanheceu depois da festa de casamento, descobriu que estava com Lia. Como isso aconteceu?",
+    "visual": 0,
+    "image": "01-amanhecer.png",
+    "title": "AO AMANHECER, ERA LIA.",
+    "ref": "GÊNESIS 29:18–25",
+    "start": 0,
+    "duration": 290
+  },
+  {
+    "id": "lia-2",
+    "text": "Depois de deixar Betel, Jacó seguiu viagem e chegou à região onde vivia Labão, irmão de sua mãe. Perto de um poço, encontrou Raquel, que cuidava das ovelhas de seu pai. Jacó ajudou a dar água ao rebanho e contou que era seu parente.",
+    "visual": 1,
+    "image": "02-poco.png",
+    "title": "UM ENCONTRO NO POÇO.",
+    "ref": "GÊNESIS 29:1–12",
+    "start": 290,
+    "duration": 454
+  },
+  {
+    "id": "lia-3",
+    "text": "Labão o recebeu em casa.",
+    "visual": 2,
+    "image": "03-labao.png",
+    "title": "LABÃO O RECEBEU.",
+    "ref": "GÊNESIS 29:13–15",
+    "start": 744,
+    "duration": 68
+  },
+  {
+    "id": "lia-4",
+    "text": "Mais tarde, quando conversaram sobre o pagamento por seu trabalho, Jacó fez uma proposta: serviria sete anos para se casar com Raquel, a filha mais nova.",
+    "visual": 3,
+    "image": "04-proposta.png",
+    "title": "SETE ANOS POR RAQUEL.",
+    "ref": "GÊNESIS 29:16–19",
+    "start": 812,
+    "duration": 331
+  },
+  {
+    "id": "lia-5",
+    "text": "O relato diz que aqueles anos lhe pareceram poucos dias, pelo amor que sentia por ela.",
+    "visual": 4,
+    "image": "05-trabalho.png",
+    "title": "PARECERAM POUCOS DIAS.",
+    "ref": "GÊNESIS 29:20",
+    "start": 1143,
+    "duration": 171
+  },
+  {
+    "id": "lia-6",
+    "text": "Quando o prazo terminou, Labão reuniu as pessoas do lugar e preparou uma festa.",
+    "visual": 5,
+    "image": "06-festa.png",
+    "title": "LABÃO FEZ UMA FESTA.",
+    "ref": "GÊNESIS 29:21–22",
+    "start": 1314,
+    "duration": 157
+  },
+  {
+    "id": "lia-7",
+    "text": "Mas, à noite, levou Lia, sua filha mais velha, até Jacó.",
+    "visual": 6,
+    "image": "07-noite.png",
+    "title": "MAS LEVOU LIA ATÉ ELE.",
+    "ref": "GÊNESIS 29:23–25",
+    "start": 1471,
+    "duration": 125
+  },
+  {
+    "id": "lia-8",
+    "text": "Pela manhã, Jacó percebeu o que havia acontecido e confrontou Labão.",
+    "visual": 7,
+    "image": "08-confronto.png",
+    "title": "POR QUE ME ENGANOU?",
+    "ref": "GÊNESIS 29:25",
+    "start": 1596,
+    "duration": 135
+  },
+  {
+    "id": "lia-9",
+    "text": "Labão respondeu que, naquele lugar, não era costume casar a filha mais nova antes da primogênita.",
+    "visual": 8,
+    "image": "09-costume.png",
+    "title": "A MAIS VELHA PRIMEIRO.",
+    "ref": "GÊNESIS 29:26",
+    "start": 1731,
+    "duration": 184
+  },
+  {
+    "id": "lia-10",
+    "text": "Então, apresentou outra condição: Jacó deveria completar a semana de celebração de Lia. Depois, receberia também Raquel como esposa, em troca de mais sete anos de serviço. Jacó aceitou.",
+    "visual": 9,
+    "image": "10-semana.png",
+    "title": "UMA SEMANA DE CELEBRAÇÃO.",
+    "ref": "GÊNESIS 29:27–28",
+    "start": 1915,
+    "duration": 386
+  },
+  {
+    "id": "lia-11",
+    "text": "E aqui está um detalhe: ele não esperou outros sete anos para se casar com Raquel. O casamento aconteceu depois daquela semana. Os sete anos seguintes foram o compromisso de trabalho assumido. Uma promessa de casamento terminou em um engano — e abriu um novo capítulo na história daquela família. Você já conhecia esse detalhe?",
+    "visual": 10,
+    "image": "11-cronologia.png",
+    "title": "ELE NÃO ESPEROU OUTROS SETE ANOS.",
+    "ref": "GÊNESIS 29:27–30",
+    "start": 2301,
+    "duration": 604
+  },
+  {
+    "id": "end",
+    "text": "Segue o Papiro Revela no Instagram, TikTok e YouTube. Curiosidades bíblicas, direto do texto.",
+    "visual": 11,
+    "image": "12-encerramento.png",
+    "title": "SEGUE O PAPIRO REVELA.",
+    "ref": "GÊNESIS 29:1–30",
+    "start": 2905,
+    "duration": 252
+  }
+]

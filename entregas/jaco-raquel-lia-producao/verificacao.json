@@ -1,0 +1,24 @@
+{
+  "duration": 105.3,
+  "frames": 3157,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "size_bytes": 11052131,
+  "scenes_extracted": 12,
+  "loudness": {
+    "input_i": "-16.14",
+    "input_tp": "-2.18",
+    "input_lra": "2.60",
+    "input_thresh": "-26.85",
+    "output_i": "-15.95",
+    "output_tp": "-2.03",
+    "output_lra": "2.50",
+    "output_thresh": "-26.62",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.05"
+  },
+  "source": "Gênesis 29:1–30",
+  "cta_verified": true
+}
