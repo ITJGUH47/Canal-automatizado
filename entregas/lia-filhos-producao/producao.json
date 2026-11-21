@@ -1,0 +1,17 @@
+{
+  "model": "eleven_turbo_v2_5",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "voice_name": "Brian - Deep, Resonant and Comforting",
+  "characters": 1557,
+  "cta_reused": true,
+  "cta_characters_saved": 93,
+  "predicted_credits_upper": 733,
+  "credits_observed": 582,
+  "remaining_reported": 8839,
+  "tier": "free",
+  "frames": 3114,
+  "duration": 103.8,
+  "monthly_budget_brl": 50,
+  "notes": "Roteiro aprovado pelo usuário. Nenhuma mudança de plano, recarga ou cobrança excedente foi autorizada ou realizada. Cache por texto/voz/configuração. O delta de uso é o observado no contador da conta.",
+  "counter_refreshed_after_generation": true
+}

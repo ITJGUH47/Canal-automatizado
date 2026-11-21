@@ -1,0 +1,16 @@
+{
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "voice_name": "Brian - Deep, Resonant and Comforting",
+  "model_id": "eleven_turbo_v2_5",
+  "voice_settings": {
+    "stability": 0.65,
+    "similarity_boost": 0.75,
+    "style": 0.1,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  },
+  "max_characters_per_request": 600,
+  "monthly_budget_brl": 50,
+  "notes": "Configuração não secreta. A chave continua nas configurações seguras. Modelo escolhido com multiplicador 0.5 confirmado pela API; nenhuma alteração de plano ou cobrança excedente.",
+  "budget_policy": "Até R$50/mês por preferência do usuário. Este campo não configura um teto de cobrança na ElevenLabs. Manter plano gratuito e não habilitar excedentes."
+}

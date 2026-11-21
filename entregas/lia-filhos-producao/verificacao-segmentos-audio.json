@@ -1,0 +1,62 @@
+[
+  {
+    "scene": 1,
+    "voice_duration": 11.293,
+    "clipped_sample_fraction": 0.0
+  },
+  {
+    "scene": 2,
+    "voice_duration": 2.833,
+    "clipped_sample_fraction": 0.0
+  },
+  {
+    "scene": 3,
+    "voice_duration": 6.362,
+    "clipped_sample_fraction": 0.0
+  },
+  {
+    "scene": 4,
+    "voice_duration": 3.158,
+    "clipped_sample_fraction": 0.0
+  },
+  {
+    "scene": 5,
+    "voice_duration": 6.687,
+    "clipped_sample_fraction": 0.0
+  },
+  {
+    "scene": 6,
+    "voice_duration": 8.665,
+    "clipped_sample_fraction": 0.0
+  },
+  {
+    "scene": 7,
+    "voice_duration": 8.545,
+    "clipped_sample_fraction": 0.0
+  },
+  {
+    "scene": 8,
+    "voice_duration": 7.709,
+    "clipped_sample_fraction": 0.0
+  },
+  {
+    "scene": 9,
+    "voice_duration": 5.321,
+    "clipped_sample_fraction": 0.0
+  },
+  {
+    "scene": 10,
+    "voice_duration": 13.085,
+    "clipped_sample_fraction": 0.0
+  },
+  {
+    "scene": 11,
+    "voice_duration": 16.15,
+    "clipped_sample_fraction": 0.0
+  },
+  {
+    "scene": 12,
+    "voice_duration": 7.059,
+    "clipped_sample_fraction": 0.0
+  }
+]
